@@ -8,7 +8,7 @@ on:
     branches:
       - main  # 当推送到 "main" 分支时触发 
     paths:  # 当推送的更改包含以下路径时触发
-      - '.github/workflows/check_speed.yml'  # 包含此工作流文件的 更改
+      - '.github/workflows/1.check_speed.yml'  # 包含此工作流文件的 更改
       - 'checkspeed/checkspeed1.py'  # 包含任何以 ".py" 结尾的文件的更改
      
 
