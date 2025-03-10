@@ -1,7 +1,7 @@
 name: check speed  push update  # 工作流的名称，这里命名为
 
 on:
-  # 使用cron表达式设置每周运行一次
+  # 使用cron表达式设置每周运 行一次
   schedule:
     - cron: '8 0 * * *' # 每周日午夜0点运行（0表示午夜，0表示周日）
   push:  # 代码推送触发
@@ -9,7 +9,7 @@ on:
       - main  # 当推送到 "main" 分支时触发 
     paths:  # 当推送的更改包含以下路径时触发
       - '.github/workflows/1.check_speed.yml'  # 包含此工作流文件的 更改
-      - 'checkspeed/checkspeed1.py'  # 包含任何以 ".py" 结尾的文件的更改
+      - 'checkspeed/checkspeed.py'  # 包含任何以 ".py" 结尾的文件的更改
      
 
 jobs:  # 定义工作流中的作业
