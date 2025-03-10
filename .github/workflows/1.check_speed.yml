@@ -42,7 +42,7 @@ jobs:  # 定义工作流中的作业
         pip install requests  # 安装 requests 库
 
     - name: Run Python main script  # 步骤名称：运行 Python 主脚本
-      run: python checkspeed/checkspeed1.py  # 运行名为 " 的 Python 脚本
+      run: python checkspeed/checkspeed.py  # 运行名为 " 的 Python 脚本
 
     - name: Fetch and merge latest changes
 
