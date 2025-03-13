@@ -155,261 +155,270 @@
 154. https://kkzy.me/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
 
 测速结果（按延迟排序）：
-1. http://99zy.pw/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 17.4ms | 成功率: 100.0%
+1. https://api.maozyapi.com/inc/apijson_vod.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 35.53ms | 成功率: 100.0%
 --------------------------------------------------
 2. https://api.maozyapi.com/inc/apijson_vod.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 20.77ms | 成功率: 100.0%
+  平均延迟: 50.98ms | 成功率: 100.0%
 --------------------------------------------------
-3. http://www.jializyzapi.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 48.99ms | 成功率: 100.0%
+3. https://ikunzyapi.com/api.php/provide/vod?（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 61.24ms | 成功率: 100.0%
 --------------------------------------------------
-4. https://api.maozyapi.com/inc/apijson_vod.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 49.29ms | 成功率: 100.0%
+4. http://www.jializyzapi.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 73.08ms | 成功率: 100.0%
 --------------------------------------------------
-5. https://suoniapi.com/api.php/provide/vod/from/snm3u8/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 88.47ms | 成功率: 100.0%
+5. https://bfzyapi.com/api.php/provide/vod（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 97.05ms | 成功率: 100.0%
 --------------------------------------------------
-6. https://bfzyapi.com/api.php/provide/vod（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 116.65ms | 成功率: 100.0%
+6. https://suoniapi.com/api.php/provide/vod/from/snm3u8/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 126.2ms | 成功率: 100.0%
 --------------------------------------------------
-7. https://slink.ltd/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 135.79ms | 成功率: 100.0%
+7. http://91md.me/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 128.27ms | 成功率: 100.0%
 --------------------------------------------------
-8. https://ikunzyapi.com/api.php/provide/vod?（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 139.04ms | 成功率: 100.0%
+8. http://99zy.pw/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 152.31ms | 成功率: 100.0%
 --------------------------------------------------
-9. http://mygzycj.com/api.php?ac=list（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 144.92ms | 成功率: 100.0%
+9. http://apilj.com/api.php/provide/vod/at/json/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 161.3ms | 成功率: 100.0%
 --------------------------------------------------
-10. https://apiyutu.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 165.45ms | 成功率: 100.0%
+10. http://91md.me/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 163.56ms | 成功率: 100.0%
 --------------------------------------------------
-11. http://91md.me/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 167.76ms | 成功率: 100.0%
+11. http://api.xinlangapi.com/xinlangapi.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 163.69ms | 成功率: 100.0%
 --------------------------------------------------
-12. https://91md.me/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 168.6ms | 成功率: 100.0%
+12. http://dadiapi.com/api.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 172.24ms | 成功率: 100.0%
 --------------------------------------------------
-13. http://apilj.com/api.php/provide/vod/at/json/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 178.75ms | 成功率: 100.0%
+13. https://91md.me/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 175.6ms | 成功率: 100.0%
 --------------------------------------------------
-14. http://api.xinlangapi.com/xinlangapi.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 178.94ms | 成功率: 100.0%
+14. https://apiyutu.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 176.53ms | 成功率: 100.0%
 --------------------------------------------------
-15. http://dadiapi.com/api.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 180.69ms | 成功率: 100.0%
+15. https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 189.54ms | 成功率: 100.0%
 --------------------------------------------------
-16. http://wuxu.cc/api.php/provide/vod/from/mdm3u8/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 187.26ms | 成功率: 100.0%
+16. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 196.79ms | 成功率: 100.0%
 --------------------------------------------------
-17. http://chujia.cc/api.php/provide/vod/from/m3u8/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 188.57ms | 成功率: 100.0%
+17. http://dadiapi.com/api.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 197.05ms | 成功率: 100.0%
 --------------------------------------------------
-18. http://api.sexnguon.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 196.13ms | 成功率: 100.0%
+18. https://slink.ltd/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 201.08ms | 成功率: 100.0%
 --------------------------------------------------
-19. https://www.pgxdy.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 200.67ms | 成功率: 100.0%
+19. https://caiji.putaozyw.net/inc/apijson_vod.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 201.26ms | 成功率: 100.0%
 --------------------------------------------------
-20. http://apilj.com/api.php/provide/vod/at/json/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 203.88ms | 成功率: 100.0%
+20. http://madouse.la/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 201.52ms | 成功率: 100.0%
 --------------------------------------------------
-21. http://91md.me/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 205.6ms | 成功率: 100.0%
+21. https://apiyutu.com/api.php/provide/vod/at/xml/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 203.5ms | 成功率: 100.0%
 --------------------------------------------------
-22. http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 205.92ms | 成功率: 100.0%
+22. http://chujia.cc/api.php/provide/vod/from/m3u8/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 203.68ms | 成功率: 100.0%
 --------------------------------------------------
-23. https://apilsbzy1.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 207.09ms | 成功率: 100.0%
+23. https://dadiapi.com/api.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 212.58ms | 成功率: 100.0%
 --------------------------------------------------
-24. https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 209.88ms | 成功率: 100.0%
+24. http://apilj.com/api.php/provide/vod/at/json/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 217.05ms | 成功率: 100.0%
 --------------------------------------------------
-25. http://api.sexnguon.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 214.7ms | 成功率: 100.0%
+25. http://wmcj8.com/inc/sapi.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 223.39ms | 成功率: 100.0%
 --------------------------------------------------
-26. http://dadiapi.com/api.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 215.25ms | 成功率: 100.0%
+26. http://wuxu.cc/api.php/provide/vod/from/mdm3u8/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 225.55ms | 成功率: 100.0%
 --------------------------------------------------
-27. https://dadiapi.com/api.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 232.9ms | 成功率: 100.0%
+27. https://apilsbzy1.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 231.02ms | 成功率: 100.0%
 --------------------------------------------------
-28. https://caiji.semaozy.net/inc/apijson_vod.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 236.03ms | 成功率: 100.0%
+28. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 235.01ms | 成功率: 100.0%
 --------------------------------------------------
-29. https://a.uezy.pw/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 240.28ms | 成功率: 100.0%
+29. http://api.sexnguon.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 242.88ms | 成功率: 100.0%
 --------------------------------------------------
-30. http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 242.43ms | 成功率: 100.0%
+30. https://caiji.semaozy.net/inc/apijson_vod.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 244.73ms | 成功率: 100.0%
 --------------------------------------------------
-31. https://apiyutu.com/api.php/provide/vod/at/xml/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 243.84ms | 成功率: 100.0%
+31. https://api.sexnguon.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 245.34ms | 成功率: 100.0%
 --------------------------------------------------
 32. https://www.msnii.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 248.27ms | 成功率: 100.0%
+  平均延迟: 249.8ms | 成功率: 100.0%
 --------------------------------------------------
-33. http://www.010aizy.com/API/macs.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 253.29ms | 成功率: 100.0%
+33. https://api.sexnguon.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 253.55ms | 成功率: 100.0%
 --------------------------------------------------
-34. https://www.pgxdy.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 253.75ms | 成功率: 100.0%
+34. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 254.02ms | 成功率: 100.0%
 --------------------------------------------------
-35. https://www.xrbsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 258.52ms | 成功率: 100.0%
+35. https://aicaozy.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 258.75ms | 成功率: 100.0%
 --------------------------------------------------
-36. https://www.msnii.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 260.58ms | 成功率: 100.0%
+36. https://www.xrbsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 263.64ms | 成功率: 100.0%
 --------------------------------------------------
-37. https://www.xrbsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 269.24ms | 成功率: 100.0%
+37. https://www.msnii.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 266.9ms | 成功率: 100.0%
 --------------------------------------------------
-38. https://www.pgxdy.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 269.6ms | 成功率: 100.0%
+38. https://www.gdlsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 271.42ms | 成功率: 100.0%
 --------------------------------------------------
-39. https://www.gdlsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 273.06ms | 成功率: 100.0%
+39. http://api.sexnguon.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 273.89ms | 成功率: 100.0%
 --------------------------------------------------
-40. https://www.xrbsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 284.04ms | 成功率: 100.0%
+40. https://www.msnii.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 275.83ms | 成功率: 100.0%
 --------------------------------------------------
-41. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 291.93ms | 成功率: 100.0%
+41. https://mgzyz1.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 276.07ms | 成功率: 100.0%
 --------------------------------------------------
-42. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 292.46ms | 成功率: 100.0%
+42. http://mygzycj.com/api.php?ac=list（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 276.66ms | 成功率: 100.0%
 --------------------------------------------------
-43. https://91av.cyou/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 298.73ms | 成功率: 100.0%
+43. https://lbapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 277.3ms | 成功率: 100.0%
 --------------------------------------------------
-44. https://www.msnii.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 306.88ms | 成功率: 100.0%
+44. https://shayuapi.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 278.75ms | 成功率: 100.0%
 --------------------------------------------------
-45. https://lbapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 309.21ms | 成功率: 100.0%
+45. https://www.gdlsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 280.49ms | 成功率: 100.0%
 --------------------------------------------------
-46. http://wmcj8.com/inc/sapi.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 314.98ms | 成功率: 100.0%
+46. https://www.gdlsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 286.47ms | 成功率: 100.0%
 --------------------------------------------------
-47. https://shayuapi.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 318.21ms | 成功率: 100.0%
+47. http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 288.08ms | 成功率: 100.0%
 --------------------------------------------------
-48. https://api.ddapi.cc/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 321.51ms | 成功率: 100.0%
+48. https://lbapi9.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 290.24ms | 成功率: 100.0%
 --------------------------------------------------
-49. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 323.36ms | 成功率: 100.0%
+49. https://lbapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 292.55ms | 成功率: 100.0%
 --------------------------------------------------
-50. https://lbapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 325.72ms | 成功率: 100.0%
+50. https://www.kxgav.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 295.34ms | 成功率: 100.0%
 --------------------------------------------------
 51. https://mgzyz1.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 333.06ms | 成功率: 100.0%
+  平均延迟: 296.6ms | 成功率: 100.0%
 --------------------------------------------------
-52. https://mgzyz1.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 336.35ms | 成功率: 100.0%
+52. https://a.uezy.pw/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 300.95ms | 成功率: 100.0%
 --------------------------------------------------
-53. https://lbapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 344.82ms | 成功率: 100.0%
+53. https://shayuapi.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 305.96ms | 成功率: 100.0%
 --------------------------------------------------
-54. http://jcspcj8.com/api?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 355.31ms | 成功率: 100.0%
+54. https://lbapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 310.13ms | 成功率: 100.0%
 --------------------------------------------------
-55. http://f2dcj6.com/sapi?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 366.16ms | 成功率: 100.0%
+55. http://99zywcj.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 325.89ms | 成功率: 100.0%
 --------------------------------------------------
-56. https://8day.icu/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 367.1ms | 成功率: 100.0%
+56. https://api.ddapi.cc/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 336.95ms | 成功率: 100.0%
 --------------------------------------------------
-57. https://api.sexnguon.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 376.47ms | 成功率: 100.0%
+57. https://91av.cyou/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 348.59ms | 成功率: 100.0%
 --------------------------------------------------
-58. https://www.mgav1.cc/api.php/provide/vod/at/xml（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 378.23ms | 成功率: 100.0%
+58. http://f2dcj6.com/sapi?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 383.65ms | 成功率: 100.0%
 --------------------------------------------------
-59. https://shayuapi.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 380.72ms | 成功率: 100.0%
+59. http://fhapi9.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 388.81ms | 成功率: 100.0%
 --------------------------------------------------
 60. http://fhapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 431.29ms | 成功率: 100.0%
+  平均延迟: 409.43ms | 成功率: 100.0%
 --------------------------------------------------
-61. https://www.gdlsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 437.08ms | 成功率: 100.0%
+61. https://8day.icu/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 419.85ms | 成功率: 100.0%
 --------------------------------------------------
-62. https://api.putaozy.net/inc/apijson_vod.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 443.41ms | 成功率: 100.0%
+62. http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 441.68ms | 成功率: 100.0%
 --------------------------------------------------
-63. https://www.gdlsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 444.8ms | 成功率: 100.0%
+63. https://www.kxgav.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 444.37ms | 成功率: 100.0%
 --------------------------------------------------
 64. http://fhapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 445.61ms | 成功率: 100.0%
+  平均延迟: 449.74ms | 成功率: 100.0%
 --------------------------------------------------
 65. https://www.kxgav.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 451.63ms | 成功率: 100.0%
+  平均延迟: 457.08ms | 成功率: 100.0%
 --------------------------------------------------
-66. https://www.kxgav.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 460.45ms | 成功率: 100.0%
+66. https://lbapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 464.45ms | 成功率: 100.0%
 --------------------------------------------------
-67. http://fhapi9.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 461.38ms | 成功率: 100.0%
+67. https://heimuer.tv/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 476.24ms | 成功率: 100.0%
 --------------------------------------------------
-68. https://heimuer.tv/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 489.43ms | 成功率: 100.0%
+68. http://jcspcj8.com/api?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 479.19ms | 成功率: 100.0%
 --------------------------------------------------
-69. http://f2dcj6.com/sapi?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 501.7ms | 成功率: 100.0%
+69. https://www.xrbsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 488.46ms | 成功率: 100.0%
 --------------------------------------------------
-70. https://www.msnii.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 519.76ms | 成功率: 100.0%
+70. https://json.heimuer.xyz/api.php/provide/vod/?ac=list（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 508.21ms | 成功率: 100.0%
 --------------------------------------------------
-71. https://json.heimuer.xyz/api.php/provide/vod/?ac=list（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 540.23ms | 成功率: 100.0%
+71. http://jcspcj8.com/api?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 511.84ms | 成功率: 100.0%
 --------------------------------------------------
-72. https://api.sexnguon.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 553.77ms | 成功率: 100.0%
+72. https://api.yinwoapi.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 538.37ms | 成功率: 33.3%
 --------------------------------------------------
-73. https://aicaozy.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 562.92ms | 成功率: 100.0%
+73. https://www.langyouzy.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 586.39ms | 成功率: 33.3%
 --------------------------------------------------
-74. https://www.kxgav.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 648.76ms | 成功率: 100.0%
+74. http://www.010aizy.com/API/macs.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 587.1ms | 成功率: 33.3%
 --------------------------------------------------
-75. http://jcspcj8.com/api?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 663.49ms | 成功率: 100.0%
+75. http://f2dcj6.com/sapi?ac=videolist（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 595.34ms | 成功率: 100.0%
 --------------------------------------------------
-76. https://caiji.putaozyw.net/inc/apijson_vod.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 663.82ms | 成功率: 100.0%
+76. https://www.pgxdy.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 597.37ms | 成功率: 100.0%
 --------------------------------------------------
-77. https://to.to-long.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 853.13ms | 成功率: 100.0%
+77. https://api.putaozy.net/inc/apijson_vod.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 601.56ms | 成功率: 100.0%
 --------------------------------------------------
-78. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 984.23ms | 成功率: 100.0%
+78. https://www.xrbsp.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 646.5ms | 成功率: 100.0%
 --------------------------------------------------
-79. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 988.4ms | 成功率: 100.0%
+79. https://www.pgxdy.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 684.25ms | 成功率: 100.0%
 --------------------------------------------------
-80. http://madouse.la/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 1064.76ms | 成功率: 100.0%
+80. https://www.pgxdy.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 691.48ms | 成功率: 100.0%
 --------------------------------------------------
-81. https://lbapi9.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 1086.1ms | 成功率: 100.0%
+81. https://www.msnii.com/api/xml.php（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 745.23ms | 成功率: 100.0%
 --------------------------------------------------
-82. http://madouse.la/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 1087.81ms | 成功率: 100.0%
+82. https://to.to-long.com/api.php/provide/vod/at/json（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 806.81ms | 成功率: 100.0%
 --------------------------------------------------
-83. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 1095.3ms | 成功率: 100.0%
+83. http://madouse.la/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 816.67ms | 成功率: 100.0%
 --------------------------------------------------
-84. https://aosikazy.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 1284.04ms | 成功率: 100.0%
+84. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 941.91ms | 成功率: 100.0%
 --------------------------------------------------
-85. https://aosikazy.com/api.php/provide/vod/?ac=list（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 1402.92ms | 成功率: 100.0%
+85. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 1075.98ms | 成功率: 100.0%
 --------------------------------------------------
-86. https://lbapi9.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
-  平均延迟: 2491.57ms | 成功率: 100.0%
+86. https://aosikazy.com/api.php/provide/vod/（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 1533.25ms | 成功率: 100.0%
+--------------------------------------------------
+87. https://www.mgav1.cc/api.php/provide/vod/at/xml（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 1765.33ms | 成功率: 100.0%
+--------------------------------------------------
+88. https://aosikazy.com/api.php/provide/vod/?ac=list（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 1822.68ms | 成功率: 100.0%
+--------------------------------------------------
+89. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json）
+  平均延迟: 2499.33ms | 成功率: 100.0%
 --------------------------------------------------
