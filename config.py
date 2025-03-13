@@ -5,12 +5,15 @@ source_urls = [
 
     "http://116.62.139.149:8089/static/output/iptv-api.m3u",
     "http://116.62.139.149:8089/static/output/live_Lite.m3u",
-    "http://116.62.139.149:8089/static/output/migu.m3u",  
+    "http://116.62.139.149:8089/static/output/migu.m3u",
+    "http://116.62.139.149:8089/static/output/zongyi.m3u", 
+    "http://116.62.139.149:8089/static/output/tiyu.m3u",
+    "http://116.62.139.149:8089/static/output/movie.m3u", 
     "http://116.62.139.149:8089/static/output/cctv.m3u", #ADDED BY lee  ON 2025/2/19
     "hhttp://116.62.139.149:8089/static/output/weishi.m3u", #ADDED BY lee  ON 2025/2/19
- 
-      
-    
+    "http://116.62.139.149:8089/static/output/hongkong.m3u", 
+    "http://116.62.139.149:8089/static/output/taiwan.m3u", 
+   
     "http://116.62.139.149:8089/static/output/zixun.m3u" #ADDED BY lee from Guovin/TV/gd/ (juhe) ON 31/12/2024 
 
 
@@ -39,8 +42,8 @@ announcements = [
     {
         "channel": "🤠小土豆ipv4直播",
         "entries": [
-            {"name":"free by oneself","url":"","logo":""},
-            {"name":"更新日期{placeholder}","url":"","logo":""},
+            {"name":"free by oneself","url":"http://goo.bkpcp.top/mg/cctv1","logo":""},
+            {"name":"更新日期{placeholder}","url":"http://php.jdshipin.com/TVOD/iptv.php?id=fct3","logo":""},
            
         ]
     }
