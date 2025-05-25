@@ -240,17 +240,15 @@ if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
         "http://156.238.251.122:888/live/live_Lite.txt",
-        "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-        "https://live.fanmingming.com/tv/m3u/ipv6.m3u", #ADDED BY lee from fanmingming. ON 31/12/2024 
-        "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u", #ADDED BY lee from https://tv.iill.top/m3u/Gather" ON 31/12/2024 
-        
-        "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u", 
-        "https://raw.githubusercontent.com/Guovin/iptv-database/refs/heads/master/result.txt", 
-        "https://raw.githubusercontent.com/xmbjm/TV/master/output/user_result.txt",
-        "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u",
-        "https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u", 
-        "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/live.txt",
-        "http://175.178.251.183:6689/live.m3u"    #ADDED BY lee from yuanlz77" ON 31/12/2024
+            "https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt",
+    "https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt",
+        "http://156.238.251.122:7000", 
+    "https://live.zbds.top/tv/iptv4.txt",
+    "https://live.zhoujie218.top/tv/iptv4.m3u", #ADDED BY lee  ON 2025/2/19
+
+    "https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u",
+    "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u", 
+    "https://raw.githubusercontent.com/hero1898/tv/refs/heads/main/IPTV.m3u"
 
  
     ]
