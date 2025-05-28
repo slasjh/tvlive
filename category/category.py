@@ -133,6 +133,66 @@ def tiqu_gjz(output_file, feilei, gjz_or_gjzs):
 
     except Exception as e:
         print(f"保存文件时发生错误：{e}")
+        
+def tiqu_gjz_juhe3(output_file, feilei, gjz_or_gjzs1,gjz_or_gjzs2,gjz_or_gjzs3):
+    try:
+        # 如果gjz_or_gjzs是字符串，则将其转换为单元素集合以便统一处理
+        if isinstance(gjz_or_gjzs1, str):
+            gjz_set1 = {gjz_or_gjzs1}
+        else:
+            gjz_set1 = set(gjz_or_gjzs1)
+        if isinstance(gjz_or_gjzs2, str):
+            gjz_set2 = {gjz_or_gjzs2}
+        else:
+            gjz_set2 = set(gjz_or_gjzs2)
+        if isinstance(gjz_or_gjzs3, str):
+            gjz_set3 = {gjz_or_gjzs3}
+        else:
+            gjz_set3 = set(gjz_or_gjzs3)  
+
+        with open(output_file, 'w', encoding='utf-8') as f:
+            # 注意：这里我们不再写入gjz_or_gjzs到文件，因为它可能是多个值
+            # 如果您确实需要写入某种标识符，请考虑使用feilei参数
+            f.write(f'{feilei},#genre#\n')  # 使用f-string格式化字符串并写入分类信息
+            for line in all_lines:
+                if any(gjz in line for gjz in gjz_set1):
+                    if any(gjz in line for gjz in gjz_set2):    
+                        if any(gjz in line for gjz in gjz_set3):    
+                            f.write(line + '\n')
+
+        print(f"合并后的文本已保存到文件: {output_file}")
+        #print("time: {}".format(datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")))
+
+    except Exception as e:
+        print(f"保存文件时发生错误：{e}")
+        
+def tiqu_gjz_juhe2(output_file, feilei, gjz_or_gjzs1,gjz_or_gjzs2):
+    try:
+        # 如果gjz_or_gjzs是字符串，则将其转换为单元素集合以便统一处理
+        if isinstance(gjz_or_gjzs1, str):
+            gjz_set1 = {gjz_or_gjzs1}
+        else:
+            gjz_set1 = set(gjz_or_gjzs1)
+        if isinstance(gjz_or_gjzs2, str):
+            gjz_set2 = {gjz_or_gjzs2}
+        else:
+            gjz_set2 = set(gjz_or_gjzs2)
+
+        with open(output_file, 'w', encoding='utf-8') as f:
+            # 注意：这里我们不再写入gjz_or_gjzs到文件，因为它可能是多个值
+            # 如果您确实需要写入某种标识符，请考虑使用feilei参数
+            f.write(f'{feilei},#genre#\n')  # 使用f-string格式化字符串并写入分类信息
+            for line in all_lines:
+                if any(gjz in line for gjz in gjz_set1):
+                    if any(gjz in line for gjz in gjz_set2):    
+                        f.write(line + '\n')
+
+        print(f"合并后的文本已保存到文件: {output_file}")
+        #print("time: {}".format(datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")))
+
+    except Exception as e:
+        print(f"保存文件时发生错误：{e}")
+        
 
 all_lines =  []
 #读取文本
@@ -163,7 +223,7 @@ gjz1 = [".chinamobile.com", "channel-id=bestzb", "channel-id=ystenlive"]  # 使�
 
 output_file2 = "category/migu.txt"
 feilei2 = "migu分类"
-gjz2 = [".migu.", "/migu/", "mg.php", "m.php", "/mg/","live.php",".php?"]  # 使用列表来存储多个关键字
+gjz2 = [".migu.", "/migu/", "mg.php", "m.php", "/mg/"]  # 使用列表来存储多个关键字
 
 output_file3 = "category/gaoma.txt"
 feilei3 = "gaoma分类"
@@ -187,6 +247,7 @@ gjz7 = ["CCTV", "cctv", "中央电视","央视"]  # 使用列表来存储多个�
 output_file8 = "category/weishi.txt"
 feilei8 = "卫视分类"
 gjz8 = ["卫视", "衛視"]  # 使用列表来存储多个关键字
+
 output_file9 = "category/hongkong.txt"
 feilei9 = "凤凰分类"
 gjz9 = ["凤凰", "翡翠", "TVB","香港"]  # 使用列表来存储多个关键字
@@ -203,6 +264,17 @@ output_file12 = "category/zongyi.txt"
 feilei12 = "综艺分类"
 gjz12 = ["综艺", "娱乐", "戏曲", "戏剧"]  # 使用列表来存储多个关键字
 
+output_file21 = "category/CCTV&migu.txt"
+feilei21 = "CCTV&migu分类"
+output_file22 = "category/卫士&migu.txt"
+feilei22 = "卫士&migu分类"
+
+output_file23 = "category/凤凰&migu.txt"
+feilei23 = "凤凰&migu分类"
+
+output_file24 = "category/movie&migu.txt"
+feilei24 = "movie&migu分类"
+
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
 tiqu_gjz(output_file1, feilei1, gjz1)
 tiqu_gjz(output_file2, feilei2, gjz2)
@@ -217,4 +289,10 @@ tiqu_gjz(output_file10, feilei8, gjz10)
 tiqu_gjz(output_file11, feilei8, gjz11)
 tiqu_gjz(output_file12, feilei8, gjz12)
 
+#tiqu_gjz_juhe3(output_file2, feilei31, gjz_3p,gjz_lian,gjz_jiao) 
+tiqu_gjz_juhe2(output_file21, feilei21, gjz7,gjz2) 
+tiqu_gjz_juhe2(output_file22, feilei22, gjz8,gjz2) 
+
+tiqu_gjz_juhe2(output_file23, feilei23, gjz9,gjz2) 
+tiqu_gjz_juhe2(output_file24, feilei24, gjz4,gjz2) 
  
