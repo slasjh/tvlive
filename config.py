@@ -4,8 +4,8 @@ ip_version_priority = "ipv4"
 source_urls = [
    "https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt",
     "https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt",
-        "http://156.238.251.122:7000", 
-    #"https://live.zbds.top/tv/iptv4.txt",
+        "http://156.238.251.122:7000"， 
+    "https://live.zbds.top/tv/iptv4.txt"
     #"https://live.zhoujie218.top/tv/iptv4.m3u", #ADDED BY lee  ON 2025/2/19
      #"http://156.238.251.122:888/live/live_Lite.txt",
     #"https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u",
