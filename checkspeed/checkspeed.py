@@ -13,7 +13,7 @@ timestart = datetime.now()
 BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com","ottrrs.hl.chinamobile.com","dsm.huarunguoji.top:35455",
            "www.52sw.top:678","gslbservzqhsw.itv.cmvideo.cn","otttv.bj.chinamobile.com","hwrr.jx.chinamobile.com:8080",
            "kkk.jjjj.jiduo.me","a21709.tv.netsite.cc","gslbserv.itv.cmvideo.cn","36.251.58.50:6060","47.92.130.115:9000",
-           "stream1.freetv.fun",
+           "stream1.freetv.fun","www.freetv.top",
            "[2409:8087:3869:8021:1001::e5]:6610","www.52iptv.vip:35455","dbiptv.sn.chinamobile.com","61.160.112.102:35455"
 ]
 
