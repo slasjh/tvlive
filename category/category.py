@@ -216,10 +216,10 @@ all_lines=clean_url(all_lines)
 # 去重
 all_lines=remove_duplicates_url(all_lines)
 # 将合并后的文本写入文件
-output_file1 = "category/cm.txt"
-feilei1 = "移动CM"
+# output_file1 = "category/cm.txt"
+# feilei1 = "移动CM"
 #gjz1 = ".chinamobile.com"
-gjz1 = [".chinamobile.com", "channel-id=bestzb", "channel-id=ystenlive"]  # 使用列表来存储多个关键字
+# gjz1 = [".chinamobile.com", "channel-id=bestzb", "channel-id=ystenlive"]  # 使用列表来存储多个关键字
 
 output_file2 = "category/migu.txt"
 feilei2 = "migu分类"
