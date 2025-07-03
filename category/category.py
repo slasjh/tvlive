@@ -276,7 +276,7 @@ output_file24 = "category/movie&migu.txt"
 feilei24 = "movie&migu分类"
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
-tiqu_gjz(output_file1, feilei1, gjz1)
+#tiqu_gjz(output_file1, feilei1, gjz1)
 tiqu_gjz(output_file2, feilei2, gjz2)
 tiqu_gjz(output_file3, feilei3, gjz3)
 tiqu_gjz(output_file4, feilei4, gjz4)
