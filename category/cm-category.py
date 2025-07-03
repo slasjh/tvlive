@@ -200,7 +200,14 @@ excudelist_lines=read_txt_to_array('category/ExcludeList.txt')
 # 定义
 urls = [
 
-    "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt",
+      "https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt",
+    "https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt",
+        "http://156.238.251.122:7000",
+    "https://live.zbds.top/tv/iptv4.txt"
+    "https://live.zhoujie218.top/tv/iptv4.m3u", #ADDED BY lee  ON 2025/2/19
+     "http://156.238.251.122:888/live/live_Lite.txt",
+    "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u", 
+    "https://raw.githubusercontent.com/hero1898/tv/refs/heads/main/IPTV.m3u"
 
 ]
 # 处理
@@ -221,21 +228,6 @@ feilei1 = "移动CM"
 #gjz1 = ".chinamobile.com"
 gjz1 = [".chinamobile.com", "channel-id=bestzb", "channel-id=ystenlive"]  # 使用列表来存储多个关键字
 
-output_file2 = "category/migu.txt"
-feilei2 = "migu分类"
-gjz2 = [".migu.", "/migu/", "mg.php", "m.php", "/mg/"]  # 使用列表来存储多个关键字
-
-output_file3 = "category/gaoma.txt"
-feilei3 = "gaoma分类"
-gjz3 = ":35455/"
-
-output_file4 = "category/movie.txt"
-feilei4 = "movie分类"
-gjz4 = ["经典", "影院", "电影","iHOT爱","newtv","NEWTV","剧场","电视剧","热剧","大片","大剧"]  # 使用列表来存储多个关键字
-
-output_file5 = "category/zixun.txt"
-feilei5 = "资讯分类"
-gjz5 = ["资讯", "新闻"]  # 使用列表来存储多个关键字
 output_file6 = "category/child.txt"
 feilei6 = "少儿分类"
 gjz6 = ["儿童", "少儿", "动漫","卡通","动画"]  # 使用列表来存储多个关键字
@@ -252,47 +244,30 @@ output_file9 = "category/hongkong.txt"
 feilei9 = "凤凰分类"
 gjz9 = ["凤凰", "翡翠", "TVB","香港"]  # 使用列表来存储多个关键字
 
-output_file10 = "category/taiwan.txt"
-feilei10 = "台分类"
-gjz10 = ["台视", "民视", "东森", "三立"]  # 使用列表来存储多个关键字
 
+output_file21 = "category/cm&cctv.txt"
+feilei21 = "cm&cctv分类"
+output_file22 = "category/cm&卫士.txt"
+feilei22 = "cm&卫士分类"
 
-output_file11 = "category/tiyu.txt"
-feilei11 = "体育分类"
-gjz11 = ["体育", "足球"]  # 使用列表来存储多个关键字
-output_file12 = "category/zongyi.txt"
-feilei12 = "综艺分类"
-gjz12 = ["综艺", "娱乐", "戏曲", "戏剧"]  # 使用列表来存储多个关键字
+output_file23 = "category/cm&凤凰.txt"
+feilei23 = "cm&凤凰分类"
 
-output_file21 = "category/CCTV&migu.txt"
-feilei21 = "CCTV&migu分类"
-output_file22 = "category/卫士&migu.txt"
-feilei22 = "卫士&migu分类"
-
-output_file23 = "category/凤凰&migu.txt"
-feilei23 = "凤凰&migu分类"
-
-output_file24 = "category/movie&migu.txt"
-feilei24 = "movie&migu分类"
+output_file24 = "category/cm&少儿.txt"
+feilei24 = "cm&少儿分类"
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
 tiqu_gjz(output_file1, feilei1, gjz1)
-tiqu_gjz(output_file2, feilei2, gjz2)
-tiqu_gjz(output_file3, feilei3, gjz3)
-tiqu_gjz(output_file4, feilei4, gjz4)
-tiqu_gjz(output_file5, feilei4, gjz5)
+
 tiqu_gjz(output_file6, feilei6, gjz6)
 tiqu_gjz(output_file7, feilei7, gjz7)
 tiqu_gjz(output_file8, feilei8, gjz8)
 tiqu_gjz(output_file9, feilei8, gjz9)
-tiqu_gjz(output_file10, feilei8, gjz10)
-tiqu_gjz(output_file11, feilei8, gjz11)
-tiqu_gjz(output_file12, feilei8, gjz12)
 
-#tiqu_gjz_juhe3(output_file2, feilei31, gjz_3p,gjz_lian,gjz_jiao) 
-tiqu_gjz_juhe2(output_file21, feilei21, gjz7,gjz2) 
-tiqu_gjz_juhe2(output_file22, feilei22, gjz8,gjz2) 
 
-tiqu_gjz_juhe2(output_file23, feilei23, gjz9,gjz2) 
-tiqu_gjz_juhe2(output_file24, feilei24, gjz4,gjz2) 
+tiqu_gjz_juhe2(output_file21, feilei21, gjz1,gjz7) 
+tiqu_gjz_juhe2(output_file22, feilei22, gjz1,gjz8) 
+
+tiqu_gjz_juhe2(output_file23, feilei23, gjz1,gjz9) 
+tiqu_gjz_juhe2(output_file24, feilei24, gjz1,gjz6) 
  
