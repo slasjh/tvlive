@@ -1,4 +1,4 @@
-name: category day update  # 工作流的名称，这里命名为
+name: cm-category day update  # 工作流的名称，这里命名为
 
 on:
   # 使用cron表达式设置每周运行一次
