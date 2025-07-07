@@ -228,6 +228,18 @@ feilei1 = "移动CM"
 #gjz1 = ".chinamobile.com"
 gjz1 = [".chinamobile.com", "channel-id=bestzb", "channel-id=ystenlive"]  # 使用列表来存储多个关键字
 
+output_file2 = "category/ottrrs.hl.chinamobile.com.txt"
+feilei2 = "ottrrs.hl.chinamobile"
+gjz2 = ["http://ottrrs.hl.chinamobile.com"]  # 使用列表来存储多个关键字
+
+output_file3 = "category/php.jdshipin.com.txt"
+feilei3 = "jdshipin"
+gjz3 = ["php.jdshipin.com"]  # 使用列表来存储多个关键字
+
+output_file4 = "category/iptv.666230.xyz.txt"
+feilei4 = "666230.xyz"
+gjz4 = ["iptv.666230.xyz"]  # 使用列表来存储多个关键字
+
 output_file6 = "category/child.txt"
 feilei6 = "少儿分类"
 gjz6 = ["儿童", "少儿", "动漫","卡通","动画"]  # 使用列表来存储多个关键字
@@ -258,6 +270,9 @@ feilei24 = "cm&少儿分类"
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
 tiqu_gjz(output_file1, feilei1, gjz1)
+tiqu_gjz(output_file2, feilei2, gjz2)
+tiqu_gjz(output_file3, feilei3, gjz3)
+tiqu_gjz(output_file4, feilei4, gjz4)
 
 tiqu_gjz(output_file6, feilei6, gjz6)
 tiqu_gjz(output_file7, feilei7, gjz7)
