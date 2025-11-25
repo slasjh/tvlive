@@ -11,7 +11,7 @@ import re
 timestart = datetime.now()
 
 BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com","ottrrs.hl.chinamobile.com","dsm.huarunguoji.top:35455",
-           "www.52sw.top:678","gslbservzqhsw.itv.cmvideo.cn","otttv.bj.chinamobile.com","hwrr.jx.chinamobile.com:8080",
+           "www.52sw.top:678","gslbservzqhsw.itv.cmvideo.cn","chinamobile.com","hwrr.jx.chinamobile.com:8080",
            "kkk.jjjj.jiduo.me","a21709.tv.netsite.cc","gslbserv.itv.cmvideo.cn","36.251.58.50:6060","47.92.130.115:9000",
            "stream1.freetv.fun","www.freetv.top",
            "[2409:8087:3869:8021:1001::e5]:6610","www.52iptv.vip:35455","dbiptv.sn.chinamobile.com","61.160.112.102:35455"
@@ -243,8 +243,6 @@ if __name__ == "__main__":
             "https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt",
     "https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt",
         "http://156.238.251.122:7000", 
-    "https://live.zbds.top/tv/iptv4.txt",
-    "https://live.zhoujie218.top/tv/iptv4.m3u", #ADDED BY lee  ON 2025/2/19
 
     "https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u",
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u", 
