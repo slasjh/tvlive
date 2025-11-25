@@ -223,7 +223,7 @@ all_lines=remove_duplicates_url(all_lines)
 
 output_file2 = "category/migu.txt"
 feilei2 = "migu分类"
-gjz2 = [".migu.", "/migu/", "mg.php", "m.php", "/mg/"]  # 使用列表来存储多个关键字
+gjz2 = [ "mg.php", "migu.php", "migu720.php"]  # 使用列表来存储多个关键字
 
 output_file3 = "category/gaoma.txt"
 feilei3 = "gaoma分类"
