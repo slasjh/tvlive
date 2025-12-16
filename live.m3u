@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="free by oneself" tvg-logo="" group-title="🤠小土豆ipv4直播",free by oneself
 
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期20251216" tvg-logo="" group-title="🤠小土豆ipv4直播",更新日期20251216
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期20251217" tvg-logo="" group-title="🤠小土豆ipv4直播",更新日期20251217
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$小土豆•IPV4『线路1』
@@ -1969,10 +1969,6 @@ http://php.jdshipin.com:8880/iptv.php$小土豆•IPV4『线路2』
 http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="哈尔滨娱乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/哈尔滨娱乐.png" group-title="🥘综艺",哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8$小土豆•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="哈尔滨娱乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/哈尔滨娱乐.png" group-title="🥘综艺",哈尔滨娱乐
-http://stream.hrbtv.net/ylpd/sd/live.m3u8$小土豆•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="哈尔滨娱乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/哈尔滨娱乐.png" group-title="🥘综艺",哈尔滨娱乐
-http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="南宁影视娱乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/南宁影视娱乐.png" group-title="🥘综艺",南宁影视娱乐
 http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e7eb508555e76e08cc1b198d04f41fb5$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="南宁影视娱乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/南宁影视娱乐.png" group-title="🥘综艺",南宁影视娱乐
