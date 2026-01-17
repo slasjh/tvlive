@@ -2,8 +2,8 @@ name: cm-category day update  # 工作流的名称，这里命名为
 
 on:
   # 使用cron表达式设置每周运行一次
-  schedule:
-    - cron: '8 2 * * *' # 每周日午夜0点运行（0表示午夜，0表示周日）除
+  #schedule:
+   # - cron: '8 2 * * *' # 每周日午夜0点运行（0表示午夜，0表示周日）除
   push:  # 代码推送触发
     branches:
       - main  # 当推送到 "main" 分支时触发 
