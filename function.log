@@ -1,8 +1,8 @@
-2026-01-19 16:30:38,223 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
-2026-01-19 16:30:38,620 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 识别为非标准格式，将使用默认分类“无分类”
-2026-01-19 16:30:38,623 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取成功✅，包含频道分类: 无分类
-2026-01-19 16:30:38,709 - INFO - url: http://156.238.251.122:7000/txt 识别为非标准格式，将使用默认分类“无分类”
-2026-01-19 16:30:38,714 - INFO - url: http://156.238.251.122:7000/txt 爬取成功✅，包含频道分类: 无分类
-2026-01-19 16:30:39,071 - INFO - url: http://64.81.114.28:7000/txt 识别为非标准格式，将使用默认分类“无分类”
-2026-01-19 16:30:39,073 - INFO - url: http://64.81.114.28:7000/txt 爬取成功✅，包含频道分类: 无分类
-2026-01-19 16:30:39,113 - ERROR - url: https://156.238.251.122:888/live/dalao/iptv-Kimentanm.m3u 爬取失败❌, Error: HTTPSConnectionPool(host='156.238.251.122', port=888): Max retries exceeded with url: /live/dalao/iptv-Kimentanm.m3u (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1017)')))
+2026-01-20 04:19:33,243 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
+2026-01-20 04:19:34,137 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 识别为非标准格式，将使用默认分类“无分类”
+2026-01-20 04:19:34,140 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取成功✅，包含频道分类: 无分类
+2026-01-20 04:19:34,487 - INFO - url: http://156.238.251.122:7000/txt 识别为非标准格式，将使用默认分类“无分类”
+2026-01-20 04:19:34,492 - INFO - url: http://156.238.251.122:7000/txt 爬取成功✅，包含频道分类: 无分类
+2026-01-20 04:19:34,996 - INFO - url: http://64.81.114.28:7000/txt 识别为非标准格式，将使用默认分类“无分类”
+2026-01-20 04:19:34,998 - INFO - url: http://64.81.114.28:7000/txt 爬取成功✅，包含频道分类: 无分类
+2026-01-20 04:19:35,133 - ERROR - url: https://156.238.251.122:888/live/dalao/iptv-Kimentanm.m3u 爬取失败❌, Error: HTTPSConnectionPool(host='156.238.251.122', port=888): Max retries exceeded with url: /live/dalao/iptv-Kimentanm.m3u (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1017)')))
