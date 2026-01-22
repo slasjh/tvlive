@@ -1,7 +1,7 @@
-2026-01-22 04:26:37,254 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
-2026-01-22 04:26:38,597 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 识别为非标准格式，将使用默认分类“无分类”
-2026-01-22 04:26:38,601 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取成功✅，包含频道分类: 无分类
-2026-01-22 04:26:38,683 - INFO - url: http://156.238.251.122:7000/txt 识别为非标准格式，将使用默认分类“无分类”
-2026-01-22 04:26:38,688 - INFO - url: http://156.238.251.122:7000/txt 爬取成功✅，包含频道分类: 无分类
-2026-01-22 04:26:39,032 - INFO - url: http://64.81.114.28:7000/txt 识别为非标准格式，将使用默认分类“无分类”
-2026-01-22 04:26:39,034 - INFO - url: http://64.81.114.28:7000/txt 爬取成功✅，包含频道分类: 无分类
+2026-01-22 16:29:33,767 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
+2026-01-22 16:29:35,011 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 识别为非标准格式，将使用默认分类“无分类”
+2026-01-22 16:29:35,014 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取成功✅，包含频道分类: 无分类
+2026-01-22 16:29:35,335 - INFO - url: http://156.238.251.122:7000/txt 识别为非标准格式，将使用默认分类“无分类”
+2026-01-22 16:29:35,340 - INFO - url: http://156.238.251.122:7000/txt 爬取成功✅，包含频道分类: 无分类
+2026-01-22 16:29:35,857 - INFO - url: http://64.81.114.28:7000/txt 识别为非标准格式，将使用默认分类“无分类”
+2026-01-22 16:29:35,859 - INFO - url: http://64.81.114.28:7000/txt 爬取成功✅，包含频道分类: 无分类
