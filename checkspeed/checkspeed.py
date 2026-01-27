@@ -239,7 +239,7 @@ def record_host(host):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        "http://156.238.251.122:888/live/live_Lite.txt",
+        "https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt",
             "https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt",
     "https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt",
         "http://156.238.251.122:7000/txt", 
