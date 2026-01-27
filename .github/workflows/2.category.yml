@@ -11,7 +11,6 @@ on:
       - '.github/workflows/category.yml'  # 包含此工作流文件的更改
       - 'category/category.py'  # 包含任何以 "." 结尾的文件的更改#- 
       - 'checkspeed/whitelist_auto_tv.txt'  # 包含 "some_directory" 目录下任何以 ".txt" 结尾的文件的更改
-      - 'checkspeed/whitelist_auto.txt'  # 包含 "some_directory" 目录下任何以 ".txt" 结尾的文件的更改
       - 'checkspeed/blackhost/*.txt'  # 包含 "some_directory" 目录下任何以 ".txt" 结尾的文件的更改
 
 jobs:  # 定义工作流中的作业
