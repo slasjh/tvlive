@@ -7,9 +7,8 @@ on:  # 定义触发工作流的事件
       - main  # 当推送到 "main" 分支时触发 
     paths:  # 当推送的更改包含以下路径时触发
       - '.github/workflows/live_update.yml'  # 包含此工作流文件的更改
-      - 'live.py'  # 包含任何以 ".py" 结尾的文件的更改
-      - 'config.py'  # 包含特定文件的更改
-      - 'demo.txt'  # 包含 "some_directory" 目录下任何以 ".txt" 结尾的文件的更改
+      - 'checkspeed/whitelist_auto_tv.txt'  # 包含 "some_directory" 目录下任何以 ".txt" 结尾的文件的更改
+    
 
 jobs:  # 定义工作流中的作业
   run_script:  # 作业的名称
