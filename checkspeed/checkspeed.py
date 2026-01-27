@@ -276,8 +276,8 @@ if __name__ == "__main__":
     # 读取输入文件内容
     lines1 = read_txt_file(input_file1)
     lines2 = read_txt_file(input_file2)
-    lines=urls_all_lines + lines1 + lines2 # 从list变成集合提供检索效率⇒发现用了set后加#合并多行url，故去掉
-    #lines=urls_all_lines  # Test
+    #lines=urls_all_lines + lines1 + lines2 # 从list变成集合提供检索效率⇒发现用了set后加#合并多行url，故去掉
+    lines=urls_all_lines  # Test
     
     # 计算合并后合计个数
     urls_hj_before = len(lines)
