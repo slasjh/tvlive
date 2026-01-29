@@ -38,9 +38,9 @@ url_blacklist = [
 
 announcements = [
     {
-        "channel": "🤠小土豆ipv4直播",
+        "channel": "🤠小土豆直播",
         "entries": [
-            {"name":"free by oneself","url":"","logo":""},
+            #{"name":"free by oneself","url":"","logo":""},
             {"name":"更新日期{placeholder}","url":"","logo":""},
            
         ]
@@ -48,7 +48,7 @@ announcements = [
 ]
 # 获取当前日期，并格式化为YYYYMMDD
 
-current_date = datetime.now().strftime('%Y%m%d')
+current_date = datetime.now().strftime('%Y-%m-%d %H:%M')
 
  
 
@@ -63,7 +63,6 @@ for announcement in announcements:
             entry['name'] = entry['name'].replace('{placeholder}', current_date)
             
 epg_urls = [
-    "https://live.fanmingming.com/e.xml",
     "http://epg.51zmt.top:8000/e.xml",
     "http://epg.aptvapp.com/xml",
     "https://epg.pw/xmltv/epg_CN.xml",
