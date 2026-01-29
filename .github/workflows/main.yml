@@ -25,9 +25,7 @@ jobs:  # 定义工作流中的作业
   run_script:  # 作业的名称
     runs-on: ubuntu-latest  # 作业将在最新的 Ubuntu 运行器上执行
     # 添加并发控制
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: false # 设置为 true 可取消队列中较旧的运行
+    concurrency: auto-update-group  # 添加并发控制
     permissions:
       contents: write  # 允许写入仓库
 
@@ -66,6 +64,8 @@ jobs:  # 定义工作流中的作业
         git add -A
         if ! git diff --staged --quiet; then
           git commit -m "Auto-update live files"
+          git fetch origin main
+          git rebase origin/main
           # 警告：这将覆盖远程分支，确保你清楚后果
           git push --force-with-lease origin main
         fi
