@@ -1,14 +1,11 @@
 name: live update  # 工作流的名称，这里命名为
 
-on:  # 定义触发工作流的事件
-  # 定时任务触发已被删除
-  push:  # 代码推送触发
-    branches:
-      - main  # 当推送到 "main" 分支时触发 
-    paths:  # 当推送的更改包含以下路径时触发
-      - '.github/workflows/live_update.yml'  # 包含此工作流文件的更改
-      - 'checkspeed/whitelist_auto_tv.txt'  # 包含 "some_directory" 目录下任何以 ".txt" 结尾的文件的更改
-    
+on:
+  # 当 "工作流A" 运行完成后，触发本工作流
+  workflow_run:
+    workflows: [1.check_speed.yml] # 请替换为实际的工作流A的名称
+    types: [completed]
+    branches: [main]
 
 jobs:  # 定义工作流中的作业
   run_script:  # 作业的名称
