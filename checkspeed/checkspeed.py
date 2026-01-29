@@ -7,6 +7,8 @@ from urllib.parse import urlparse
 import socket  #check p3p源 rtp源
 import subprocess #check rtmp源
 import re
+import urllib.error
+from socket import timeout as SocketTimeout
 
 timestart = datetime.now()
 
@@ -30,7 +32,8 @@ def read_txt_file(file_path):
     return lines
 
 # 检测URL是否可访问并记录响应时间
-def check_url(url, timeout=6):
+
+def check_url(url, timeout=15, max_retries=2):  # 增加超时和重试参数
     start_time = time.time()
     elapsed_time = None
     success = False
@@ -38,28 +41,57 @@ def check_url(url, timeout=6):
     # 将 URL 中的汉字编码
     encoded_url = urllib.parse.quote(url, safe=':/?&=')
     
-    try:
-        if get_host_from_url(url) not in BlackHost and not is_ipv6(url) and url.startswith("http") :
-            headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-            }
-            req = urllib.request.Request(encoded_url, headers=headers)
-            req.allow_redirects = True  # 允许自动重定向（Python 3.4+）
-            with urllib.request.urlopen(req, timeout=timeout) as response:
-                if response.status == 200 or response.status == 206:  # 部分内容响应也是成功的:
-                    success = True
-        elif url.startswith("p3p") or url.startswith("p2p") or url.startswith("rtmp") or url.startswith("rtsp") or url.startswith("rtp"):
-            success = False
-            print(f"{url}此链接为rtp/p2p/rtmp/rtsp等，舍弃不检测")
-
-        # 如果执行到这一步，没有异常，计算时间
-        elapsed_time = (time.time() - start_time) * 1000  # 转换为毫秒
-
-    except Exception as e:
-        print(f"Error checking {url}: {e}")
-        record_host(get_host_from_url(url))
-        # 在发生异常的情况下，将 elapsed_time 设置为 None
-        elapsed_time = None
+    for attempt in range(max_retries + 1):  # 重试循环
+        try:
+            if get_host_from_url(url) not in BlackHost and not is_ipv6(url) and url.startswith("http"):
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                    'Accept': '*/*',  # 添加Accept头
+                    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',  # 添加语言头
+                }
+                req = urllib.request.Request(encoded_url, headers=headers)
+                
+                # 注意: urllib 自动处理重定向，无需设置 allow_redirects
+                with urllib.request.urlopen(req, timeout=timeout) as response:
+                    status_code = response.getcode()
+                    if status_code == 200 or status_code == 206:
+                        success = True
+                    elif status_code == 403:
+                        print(f"访问被拒绝，请检查URL权限或服务器设置: {url}")
+                    elif status_code == 404:
+                        print(f"资源不存在: {url}")
+                    # 可添加更多状态码处理
+                    
+                elapsed_time = (time.time() - start_time) * 1000
+                break  # 成功则退出重试循环
+                
+            elif url.startswith(("p3p", "p2p", "rtmp", "rtsp", "rtp")):
+                print(f"{url}此链接为rtp/p2p/rtmp/rtsp等，舍弃不检测")
+                success = False
+                break
+                
+        except urllib.error.HTTPError as e:
+            print(f"HTTP Error checking {url}: {e.code} - {e.reason}")
+            if e.code == 403:
+                record_host(get_host_from_url(url))  # 记录403错误的host
+            if attempt == max_retries:  # 最后一次重试仍失败
+                elapsed_time = None
+            time.sleep(1)  # 重试前等待
+        except urllib.error.URLError as e:
+            print(f"URL Error checking {url}: {e.reason}")
+            if attempt == max_retries:
+                elapsed_time = None
+            time.sleep(1)
+        except SocketTimeout:
+            print(f"Timeout checking {url}: 超过{timeout}秒未响应")
+            if attempt == max_retries:
+                elapsed_time = None
+            time.sleep(1)
+        except Exception as e:
+            print(f"Unexpected error checking {url}: {e}")
+            if attempt == max_retries:
+                elapsed_time = None
+            break  # 非网络错误立即退出
 
     return elapsed_time, success
            
