@@ -15,7 +15,7 @@ timestart = datetime.now()
 BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com","ottrrs.hl.chinamobile.com","dsm.huarunguoji.top:35455",
            "www.52sw.top:678","gslbservzqhsw.itv.cmvideo.cn","chinamobile.com","hwrr.jx.chinamobile.com:8080",
            "kkk.jjjj.jiduo.me","a21709.tv.netsite.cc","gslbserv.itv.cmvideo.cn","36.251.58.50:6060","47.92.130.115:9000",
-           "stream1.freetv.fun","www.freetv.top",
+           "stream1.freetv.fun","www.freetv.top", "goo.bkpcp.top", "z.b.bkpcp.top",
            "[2409:8087:3869:8021:1001::e5]:6610","www.52iptv.vip:35455","dbiptv.sn.chinamobile.com","61.160.112.102:35455"
 ]
 
@@ -33,7 +33,7 @@ def read_txt_file(file_path):
 
 # 检测URL是否可访问并记录响应时间
 
-def check_url(url, timeout=15, max_retries=2):  # 增加超时和重试参数
+def check_url(url, timeout=10, max_retries=2):  # 增加超时和重试参数
     start_time = time.time()
     elapsed_time = None
     success = False
