@@ -49,7 +49,7 @@ def fetch_channels(url, corrections):
         lines = response.text.split("\n")
         current_category = None
         is_m3u = any("#EXTM3U" in line for line in lines[:15]) and any("#EXTINF" in line for line in lines[:15])  ##is_m3u = any("#EXTINF" in line for line in lines[:15])
-        is_txt = any(line.strip().startswith("#genre#") for line in lines if line.strip())
+        is_txt = any("#genre#" in line for line in lines if line.strip())
 
         if is_m3u:
             logging.info(f"url: {url} 获取成功，判断为标准的M3U格式")
