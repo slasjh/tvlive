@@ -1,9 +1,9 @@
-2026-01-29 12:12:47,301 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 识别为非标准格式，将使用默认分类“无分类”
-2026-01-29 12:12:47,302 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 无分类
-2026-01-29 12:12:47,438 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 识别为非标准格式，将使用默认分类“无分类”
-2026-01-29 12:12:47,439 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 无分类
-2026-01-29 12:12:47,724 - INFO - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 识别为非标准格式，将使用默认分类“无分类”
-2026-01-29 12:12:47,724 - WARNING - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 中有无法解析的行: 春晚1983，https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-2026-01-29 12:12:47,724 - WARNING - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 中有无法解析的行: 春晚1984，https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-2026-01-29 12:12:47,724 - WARNING - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 中有无法解析的行: 春晚1985，https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-2026-01-29 12:12:47,725 - INFO - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 无分类
+2026-01-29 15:01:24,673 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 识别为非标准格式，将使用默认分类“无分类”
+2026-01-29 15:01:24,676 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 无分类
+2026-01-29 15:01:24,771 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 识别为非标准格式，将使用默认分类“无分类”
+2026-01-29 15:01:24,772 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 无分类
+2026-01-29 15:01:25,050 - INFO - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 识别为非标准格式，将使用默认分类“无分类”
+2026-01-29 15:01:25,050 - WARNING - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 中有无法解析的行: 春晚1983，https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+2026-01-29 15:01:25,050 - WARNING - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 中有无法解析的行: 春晚1984，https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+2026-01-29 15:01:25,051 - WARNING - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 中有无法解析的行: 春晚1985，https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+2026-01-29 15:01:25,051 - INFO - url: https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 无分类
