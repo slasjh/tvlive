@@ -36,21 +36,11 @@ jobs:  # 定义工作流中的作业
       run: |  # 运行以下 shell 命令
         pip install requests  # 安装 requests 库
 
-    - name: Run Python main script  # 步骤名称：运行 Python 主脚本
-      run: python live2.py  # 运行名为 " 的 Python 脚本
+    #- name: Run Python check_parses script  # 步骤名称：运行 Python 主脚本
+     # run: python check_parses0219-1.py  # 运行名为 "check_parses.py" 的 Python 脚本
+    - name: Run Python live script  # 步骤名称：运行 Python 主脚本
+      run: python live2.py  # 运行名为  的 Python 脚本
 
-    - name: Fetch and merge latest changes
-
-      run: |
-
-        git fetch origin main
-
-        git merge origin/main
-
-        # 注意：如果合并产生冲突，这里的脚本将失败。您可能需要添加额外的逻辑来处理冲突，
-
-        # 或者确保这个工作流在不太可能产生冲突的情况下运行。
-        
     - name: Commit and push if changed  # 步骤名称：如果更改则提交并推送
       run: |  # 运行以下 shell 命令
         git config --local user.email "github-actions[bot]@users.noreply.github.com"  # 设置 git 用户邮箱
