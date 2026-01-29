@@ -24,6 +24,10 @@ on:
 jobs:  # 定义工作流中的作业
   run_script:  # 作业的名称
     runs-on: ubuntu-latest  # 作业将在最新的 Ubuntu 运行器上执行
+    # 添加并发控制
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: false # 设置为 true 可取消队列中较旧的运行
     permissions:
       contents: write  # 允许写入仓库
 
@@ -55,15 +59,16 @@ jobs:  # 定义工作流中的作业
     - name: Run Python live script  # 步骤名称：运行 Python 主脚本
       run: python live2.py  # 运行名为  的 Python 脚本
 
-    - name: Commit and push if changed  # 步骤名称：如果更改则提交并推送
-      run: |  # 运行以下 shell 命令
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"  # 设置 git 用户邮箱
-        git config --local user.name "github-actions[bot]"  # 设置 git 用户名
-        git add -A  # 添加所有更改到暂存区
-        if ! git diff --staged --quiet; then  # 如果存在暂存的更改
-          git commit -m "Auto-update live files"  # 提交更改，附带消息 "Auto-update live files"
-          git push  # 推送更改到远程仓库
-        fi  # 结束 if 语句
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update live files"
+          # 警告：这将覆盖远程分支，确保你清楚后果
+          git push --force-with-lease origin main
+        fi
 
     env:  # 定义环境变量
       TZ: Asia/Shanghai  # 设置时区为 "Asia/Shanghai"
