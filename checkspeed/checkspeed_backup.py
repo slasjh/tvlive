@@ -7,14 +7,13 @@ from urllib.parse import urlparse
 import socket  #check p3p源 rtp源
 import subprocess #check rtmp源
 import re
-import requests
 
 timestart = datetime.now()
 
 BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com","ottrrs.hl.chinamobile.com","dsm.huarunguoji.top:35455",
-           "www.52sw.top:678","gslbservzqhsw.itv.cmvideo.cn","otttv.bj.chinamobile.com","hwrr.jx.chinamobile.com:8080",
+           "www.52sw.top:678","gslbservzqhsw.itv.cmvideo.cn","chinamobile.com","hwrr.jx.chinamobile.com:8080",
            "kkk.jjjj.jiduo.me","a21709.tv.netsite.cc","gslbserv.itv.cmvideo.cn","36.251.58.50:6060","47.92.130.115:9000",
-           "stream1.freetv.fun",
+           "stream1.freetv.fun","www.freetv.top",
            "[2409:8087:3869:8021:1001::e5]:6610","www.52iptv.vip:35455","dbiptv.sn.chinamobile.com","61.160.112.102:35455"
 ]
 
@@ -35,23 +34,20 @@ def check_url(url, timeout=6):
     start_time = time.time()
     elapsed_time = None
     success = False
-    headers = {
 
-        'User-Agent': 'Lavf/58.12.100',
-
-        'Accept': '*/*',
-
-    }   
     # 将 URL 中的汉字编码
     encoded_url = urllib.parse.quote(url, safe=':/?&=')
     
     try:
         if get_host_from_url(url) not in BlackHost and not is_ipv6(url) and url.startswith("http") :
-            response = requests.get(url, allow_redirects=True, headers=headers, timeout=timeout)
-            response.raise_for_status()  # 如果响应状态码不是 200 OK，将引发 HTTPError 异常
-            # 注意：response 对象没有 status 属性，只有 status_code 属性
-            if response.status_code == 200 or response.status_code == 206:  # 部分内容响应也是成功的
-                success = True
+            headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            }
+            req = urllib.request.Request(encoded_url, headers=headers)
+            req.allow_redirects = True  # 允许自动重定向（Python 3.4+）
+            with urllib.request.urlopen(req, timeout=timeout) as response:
+                if response.status == 200 or response.status == 206:  # 部分内容响应也是成功的:
+                    success = True
         elif url.startswith("p3p") or url.startswith("p2p") or url.startswith("rtmp") or url.startswith("rtsp") or url.startswith("rtp"):
             success = False
             print(f"{url}此链接为rtp/p2p/rtmp/rtsp等，舍弃不检测")
@@ -86,7 +82,7 @@ def process_line(line):
     return None, None
 
 # 多线程处理文本并检测URL
-def process_urls_multithreaded(lines, max_workers=30):
+def process_urls_multithreaded(lines, max_workers=15):
     blacklist =  [] 
     successlist = []
 
@@ -243,18 +239,16 @@ def record_host(host):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        "http://156.238.251.122:888/live/live_Lite.txt",
-        "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-        "https://live.fanmingming.com/tv/m3u/ipv6.m3u", #ADDED BY lee from fanmingming. ON 31/12/2024 
-        "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u", #ADDED BY lee from https://tv.iill.top/m3u/Gather" ON 31/12/2024 
-        
-        "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u", 
-        "https://raw.githubusercontent.com/Guovin/iptv-database/refs/heads/master/result.txt", 
-        "https://raw.githubusercontent.com/xmbjm/TV/master/output/user_result.txt",
-        "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u",
-        "https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u", 
-        "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/live.txt",
-        "http://175.178.251.183:6689/live.m3u"    #ADDED BY lee from yuanlz77" ON 31/12/2024
+        "https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt",
+            "https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt",
+    "https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt",
+        "http://156.238.251.122:7000/txt", 
+   "http://64.81.114.28:7000/txt" 
+    #"https://156.238.251.122:888/live/dalao/iptv-Kimentanm.m3u",
+    #"https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u", 
+    #"https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u",
+    #"https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u", 
+    #"https://raw.githubusercontent.com/hero1898/tv/refs/heads/main/IPTV.m3u"
 
  
     ]
@@ -282,8 +276,8 @@ if __name__ == "__main__":
     # 读取输入文件内容
     lines1 = read_txt_file(input_file1)
     lines2 = read_txt_file(input_file2)
-    lines=urls_all_lines + lines1 + lines2 # 从list变成集合提供检索效率⇒发现用了set后加#合并多行url，故去掉
-    #lines=urls_all_lines  # Test
+    #lines=urls_all_lines + lines1 + lines2 # 从list变成集合提供检索效率⇒发现用了set后加#合并多行url，故去掉
+    lines=urls_all_lines  # Test
     
     # 计算合并后合计个数
     urls_hj_before = len(lines)
