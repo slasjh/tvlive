@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-01-30 07:34" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-01-30 07:34
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-01-30 12:15" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-01-30 12:15
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20260130053249f2fdcab7c26241f18abb1e336756dce3&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260130053249&Channel_ID=0116_2600001300-99000-201600010013768&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=121.229.4.160&SecurityKey=20260130053249&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0b5f097e378ac28721a8062012df106a$小土豆•IPV4『线路1』
@@ -116,7 +116,7 @@ http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$小土豆•IPV4『线�
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/深圳卫视.png" group-title="📡卫视",深圳卫视
 http://23.237.228.134/live6/shenzhen.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="📡卫视",广东卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=20260129183415f752e56568bd484195d32951d5a88b15&mdspid=&spid=699054&netType=4&sid=2202428795&pid=2028597139&timestamp=20260129183415&Channel_ID=0116_2600001300-99000-201600010013714&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=112.81.84.120&SecurityKey=20260129183415&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d1f7a096e459656ccb422a6eea012682$小土豆•IPV4『线路1』
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=202601300658059bc043ff64a74f7981fc0f31957770e2&mdspid=&spid=699054&netType=4&sid=2202428795&pid=2028597139&timestamp=20260130065805&Channel_ID=0116_2600001300-99000-201600010013771&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=163.125.239.15&SecurityKey=20260130065805&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cdb05625d179adcac574772b62fcd41b$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="📡卫视",广东卫视
 http://23.237.228.134/live6/guangdong.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="📡卫视",广东卫视
@@ -252,11 +252,13 @@ http://58.57.40.22:9901/tsfile/live/1021_1.m3u8$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="山东综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/山东综艺.png" group-title="🥘综艺",山东综艺
 http://123.129.70.178:9901/tsfile/live/1001_1.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="广东体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东体育.png" group-title="🥘体育",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8$小土豆•IPV4『线路1』
+http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="广东体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东体育.png" group-title="🥘体育",广东体育
-http://r.jdshipin.com/LiYdg$小土豆•IPV4『线路2』
+http://cdn2.163189.xyz/live/gdty/stream.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="广东体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东体育.png" group-title="🥘体育",广东体育
-http://cdn2.132.us.kg/live/gdty/stream.m3u8$小土豆•IPV4『线路3』
+http://r.jdshipin.com/LiYdg$小土豆•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="广东体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东体育.png" group-title="🥘体育",广东体育
+http://cdn2.132.us.kg/live/gdty/stream.m3u8$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="纬来体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来体育.png" group-title="🥘体育",纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="安徽综艺体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽综艺体育.png" group-title="🥘体育",安徽综艺体育
