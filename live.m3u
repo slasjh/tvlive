@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-05 12:21" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-05 12:21
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-05 12:24" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-05 12:24
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202602050644161a0d5f8a3b49458fae0a996ae148e70c&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260205064416&Channel_ID=0116_2600036500-99000-201600010014161&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.244&SecurityKey=20260205064416&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff8881b5152ac33f8883179a46845e85&sv=10004&ct=android$小土豆•IPV4『线路1』
@@ -160,17 +160,17 @@ http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="延边卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/延边卫视.png" group-title="📡卫视",延边卫视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="🇭🇰香港",翡翠台
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$小土豆•IPV4『线路1』
+http://php.jdshipin.com:8880/smt.php?id=jade_twn$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="🇭🇰香港",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn$小土豆•IPV4『线路2』
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="🇭🇰香港",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC家庭影院.png" group-title="🥘电影",CHC家庭影院
 https://migu.188766.xyz/?migutoken=1d2aae4c4233178928277e5322b57c56&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC动作电影.png" group-title="🥘电影",CHC动作电影
-https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1$小土豆•IPV4『线路1』
+http://eastscreen.tv/ooooo.php$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC动作电影.png" group-title="🥘电影",CHC动作电影
-http://eastscreen.tv/ooooo.php$小土豆•IPV4『线路2』
+https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC影迷电影.png" group-title="🥘电影",CHC影迷电影
 https://migu.188766.xyz/?migutoken=cba3ea508f820fa23c15bc9ded5355f1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="龙华电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华电影.png" group-title="🥘电影",龙华电影
