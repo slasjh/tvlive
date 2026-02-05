@@ -5,8 +5,8 @@ source_urls = [
    "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt",
    "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt",
     "http://156.238.251.122:888/live/fh.txt",
-    "https://github.com/slasjh/tvlive/raw/refs/heads/main/checkspeed/live_Lite.txt",
-      "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt"
+    "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt",
+   "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt"
     #"http://156.238.251.122:7000/txt",
     #"http://64.81.114.28:7000/txt"
    
