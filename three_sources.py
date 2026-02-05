@@ -184,10 +184,10 @@ def updateChannelUrlsM3U(channels, template_channels):
             if announcement['name'] is None:
                 announcement['name'] = current_date
 
-    with open("live.m3u", "w", encoding="utf-8") as f_m3u:
+    with open("three.m3u", "w", encoding="utf-8") as f_m3u:
         f_m3u.write(f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n""")
 
-        with open("live.txt", "w", encoding="utf-8") as f_txt:
+        with open("three.txt", "w", encoding="utf-8") as f_txt:
             for group in config.announcements:
                 f_txt.write(f"{group['channel']},#genre#\n")
                 for announcement in group['entries']:
@@ -209,7 +209,7 @@ def updateChannelUrlsM3U(channels, template_channels):
                             # 保证数字连续
                             index = 1
                             for url in filtered_urls:
-                                url_suffix = f"$小土豆•IPV4" if len(filtered_urls) == 1 else f"$小土豆•IPV4『线路{index}』"
+                                url_suffix = f"$小土豆•IPV4" if len(filtered_urls) == 1 else f"$小土豆•『{index}』"
                                 if '$' in url:
                                     base_url = url.split('$', 1)[0]
                                 else:
