@@ -1,0 +1,74 @@
+name: main (three_sources) # 工作流名称
+
+on:
+
+  schedule:
+
+    #- cron: '0 8 * * *'  # 每天8点运行
+
+    - cron: '0 1-23/2 * * *' # 从凌晨2点开始，到23点结束，每3小时执行（02:00, 05:00, ..., 24:00）
+  # 允许手动触发，仅在main分支上
+  workflow_dispatch:
+    branches:
+      - main # 限制在main分支上手动触发
+
+# 注意：cron表达式的格式是 '分钟 小时 日 月 星期'
+# 分钟：0-59
+# 小时：0-23
+# 日：1-31
+# 月：1-12 或 JAN-DEC
+# 星期：0-7 或 SUN-SAT（0和7都表示星期日）
+
+
+
+jobs:  # 定义工作流中的作业
+  run_script:  # 作业的名称
+    runs-on: ubuntu-latest  # 作业将在最新的 Ubuntu 运行器上执行
+    # 添加并发控制
+    concurrency: auto-update-group  # 添加并发控制
+    permissions:
+      contents: write  # 允许写入仓库
+
+    steps:  # 定义作业中的步骤
+    - name: Checkout repository  # 步骤名称：检出仓库
+      uses: actions/checkout@v2  # 使用 "actions/checkout" 动作，版本为 "v2"，用于检出代码仓库
+      with:
+       persist-credentials: true  # 保留 GITHUB_TOKEN 的凭据
+
+    - name: Set up Python  # 步骤名称：设置 Python
+      uses: actions/setup-python@v2  # 使用 "actions/setup-python" 动作，版本为 "v2"，用于设置 Python 环境
+      with:
+        python-version: '3.10'  # 指定 Python 版本为 3.10
+
+    - name: Cache dependencies  # 步骤名称：缓存依赖项
+      uses: actions/cache@v3  # 使用 "actions/cache" 动作，版本更新为 "v3"
+      with:
+        path: ~/.cache/pip  # 指定缓存路径为 pip 的缓存目录
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}  # 缓存键，基于运行器操作系统和 requirements.txt 文件的哈希值
+        restore-keys: |  # 备用缓存键，用于在找不到精确匹配时回退
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies  # 步骤名称：安装依赖项
+      run: |  # 运行以下 shell 命令
+        pip install requests  # 安装 requests 库
+
+    #- name: Run Python check_parses script  # 步骤名称：运行 Python 主脚本
+     # run: python check_parses0219-1.py  # 运行名为 "check_parses.py" 的 Python 脚本
+    - name: Run Python three_sources script  # 步骤名称：运行 Python 主脚本
+      run: python three_sources.py  # 运行名为  的 Python 脚本
+
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update live_three files"
+          git fetch origin main
+          git rebase origin/main
+          # 警告：这将覆盖远程分支，确保你清楚后果
+          git push --force-with-lease origin main
+        fi
+
+    env:  # 定义环境变量
+      TZ: Asia/Shanghai  # 设置时区为 "Asia/Shanghai"
