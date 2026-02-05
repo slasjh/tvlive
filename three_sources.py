@@ -3,7 +3,7 @@ import requests
 import logging
 from collections import OrderedDict, defaultdict
 from datetime import datetime
-import config
+import config_three
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', handlers=[logging.FileHandler("function.log", "w", encoding="utf-8"), logging.StreamHandler()])
 
@@ -227,7 +227,7 @@ def updateChannelUrlsM3U(channels, template_channels):
             f_txt.write("\n")
 
 if __name__ == "__main__":
-    template_file = "demo.txt"
-    correction_file = "correction.txt"
+    template_file = "demo_three.txt"
+    correction_file = "correction_three.txt"
     channels, template_channels = filter_source_urls(template_file, correction_file)
     updateChannelUrlsM3U(channels, template_channels)
