@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-08 22:37" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-08 22:37
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-09 00:41" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-09 00:41
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202602081742169ae2da218a4a4ff7b9988b99902cc405&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260208174216&Channel_ID=0116_2600036500-99000-201600010014570&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=124.236.97.161&SecurityKey=20260208174216&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=992dc74a6e74e2e789c4be3b8eed6581&sv=10004&ct=android$小土豆•IPV4『线路1』
@@ -146,11 +146,11 @@ http://r.jdshipin.com/WtYt3$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/兵团卫视.png" group-title="📡卫视",兵团卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/51/20250804/index.m3u8?msisdn=202602081727238281c8a067ba4a88b504f19423e5bdef&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260208172723&Channel_ID=0116_2600036500-99000-201600010014541&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=61.158.134.197&SecurityKey=20260208172723&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2395e85215acf7f8dfee737915d3d2e7&sv=10004&ct=android$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$小土豆•IPV4『线路1』
+https://liveout.xntv.tv/a65jur/96iln2.m3u8$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8$小土豆•IPV4『线路2』
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing$小土豆•IPV4『线路3』
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/农林卫视.png" group-title="📡卫视",农林卫视
 http://gxlive.snrtv.com/nlws-SD.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/三沙卫视.png" group-title="📡卫视",三沙卫视
@@ -222,9 +222,9 @@ http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8$小土豆•IPV4『线路1�
 #EXTINF:-1 tvg-id="2" tvg-name="浙江少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江少儿.png" group-title="🥘少儿",浙江少儿
 http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="浙江少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江少儿.png" group-title="🥘少儿",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$小土豆•IPV4『线路3』
+http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="浙江少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江少儿.png" group-title="🥘少儿",浙江少儿
-http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$小土豆•IPV4『线路4』
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卡酷少儿.png" group-title="🥘少儿",北京卡酷少儿
 https://migu.188766.xyz/?migutoken=1023983db6b5249e61d4950c1654cd84&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/金鹰卡通.png" group-title="🥘少儿",金鹰卡通
