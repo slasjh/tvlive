@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-12 19:47" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-12 19:47
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-12 21:39" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-12 21:39
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8$小土豆•IPV4『线路1』
@@ -120,19 +120,39 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$小土豆•IPV4�
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
 http://156.238.251.122/fh.php?id=fhzw$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$小土豆•IPV4『线路2』
+http://r.jdshipin.com/cCCzW$小土豆•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
+http://iptv.4666888.xyz/iptv2A.php?id=27$小土豆•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
 http://156.238.251.122/fh.php?id=fhzx$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$小土豆•IPV4『线路2』
+http://r.jdshipin.com/0Rp07$小土豆•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd$小土豆•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰香港.png" group-title="🇭🇰港澳台",凤凰香港
-http://156.238.251.122/fh.php?id=fhhk$小土豆•IPV4
+http://156.238.251.122/fh.php?id=fhhk$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰香港" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰香港.png" group-title="🇭🇰港澳台",凤凰香港
+http://r.jdshipin.com/yDoTN$小土豆•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="凤凰香港" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰香港.png" group-title="🇭🇰港澳台",凤凰香港
+https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn$小土豆•IPV4『线路2』
+https://o11.163189.xyz/stream/tvb/fct4k/$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$小土豆•IPV4『线路3』
+http://iptv.4666888.xyz/iptv2A.php?id=34$小土豆•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
+https://cdn6.163189.xyz/163189/fct4k$小土豆•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn$小土豆•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$小土豆•IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVBS新闻.png" group-title="🇭🇰港澳台",TVBS新闻
+http://rihou.cc:555/tv/[FY]tvbS新闻$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC家庭影院.png" group-title="🥘电影",CHC家庭影院
 https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=02f6073a65cfa4b76b8198be1bbc271ad8399a5a7eba28b6d2b5a1fd269162f4e5d78202d5515f6a21832743887f1e19f9c93e34c348532e77d8b083727e41097fb2ee9c27f1606dea802ad3d5$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC家庭影院.png" group-title="🥘电影",CHC家庭影院
