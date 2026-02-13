@@ -43,7 +43,7 @@ announcements = [
         "channel": "🤠小土豆直播",
         "entries": [
             #{"name":"free by oneself","url":"","logo":""},
-            {"name":"更新日期{placeholder}","url":"","logo":""},
+            {"name":"更新日期{placeholder}","url":"http://1.1.1.1","logo":""},
            
         ]
     }
