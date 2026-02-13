@@ -1,39 +1,38 @@
-2026-02-13 17:33:09,538 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
-2026-02-13 17:33:09,540 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
-2026-02-13 17:33:09,626 - INFO - url: http://156.238.251.122:7000/txt 获取成功，判断为标准的TXT格式
-2026-02-13 17:33:09,632 - INFO - url: http://156.238.251.122:7000/txt 爬取成功✅，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️海南频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️宁夏频道, ☘️吉林频道, ☘️内蒙古频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🎬电影频道, 🎥咪咕直播, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
-2026-02-13 17:33:09,743 - ERROR - url: http://64.81.114.28:7000/txt 爬取失败❌, Error: HTTPConnectionPool(host='64.81.114.28', port=7000): Max retries exceeded with url: /txt (Caused by NewConnectionError("HTTPConnection(host='64.81.114.28', port=7000): Failed to establish a new connection: [Errno 111] Connection refused"))
-2026-02-13 17:33:09,876 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 获取成功，判断为标准的TXT格式
-2026-02-13 17:33:09,879 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 安徽频道, 北京频道, 重庆频道, 福建频道, 甘肃频道, 广东频道, 广西频道, 贵州频道, 海南频道, 河北频道, 河南频道, 湖北频道, 湖南频道, 黑龙江频道, 吉林频道, 江苏频道, 辽宁频道, 内蒙古频道, 宁夏频道, 青海频道, 山东频道, 山西频道, 陕西频道, 四川频道, 上海频道, 天津频道, 新疆频道, 云南频道, 浙江频道, 其它频道, 港·澳·台, AKTV, 海外频道
-2026-02-13 17:33:10,009 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
-2026-02-13 17:33:10,011 - INFO - 频道 CCTV-2财经 的URL http://23.237.228.134/live5/CCTV2.m3u8 在 3 个订阅源中出现: {'央视频道', '📺央视频道', 'whitelist'}
-2026-02-13 17:33:10,011 - INFO - 频道 CCTV-3综艺 的URL http://23.237.228.134/live5/CCTV3.m3u8 在 3 个订阅源中出现: {'央视频道', '📺央视频道', 'whitelist'}
-2026-02-13 17:33:10,012 - INFO - 频道 CCTV-5+体育赛事 的URL http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8 在 3 个订阅源中出现: {'📺央视频道', '🏀体育频道', '央视频道'}
-2026-02-13 17:33:10,012 - INFO - 频道 CCTV-7国防军事 的URL http://23.237.228.134/live5/CCTV7.m3u8 在 3 个订阅源中出现: {'央视频道', '📺央视频道', 'whitelist'}
-2026-02-13 17:33:10,014 - INFO - 频道 湖南卫视 的URL http://23.237.228.134/live6/hunan.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,015 - INFO - 频道 浙江卫视 的URL http://23.237.228.134/live6/zhejiang.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,015 - INFO - 频道 浙江卫视 的URL http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8 在 3 个订阅源中出现: {'浙江频道', '卫视频道', 'whitelist'}
-2026-02-13 17:33:10,015 - INFO - 频道 东方卫视 的URL http://23.237.228.134/live6/dongnan.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,016 - INFO - 频道 北京卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8 在 3 个订阅源中出现: {'北京频道', '📡卫视频道', '卫视频道'}
-2026-02-13 17:33:10,016 - INFO - 频道 江苏卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010059/1.m3u8 在 3 个订阅源中出现: {'江苏频道', '📡卫视频道', '卫视频道'}
-2026-02-13 17:33:10,016 - INFO - 频道 重庆卫视 的URL http://23.237.228.134/live6/chongqing.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,017 - INFO - 频道 东南卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8 在 3 个订阅源中出现: {'📡卫视频道', '卫视频道', '福建频道'}
-2026-02-13 17:33:10,017 - INFO - 频道 深圳卫视 的URL http://23.237.228.134/live6/shenzhen.m3u8 在 4 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist', '☘️广东频道'}
-2026-02-13 17:33:10,017 - INFO - 频道 深圳卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8 在 4 个订阅源中出现: {'广东频道', '📡卫视频道', '卫视频道', '☘️广东频道'}
-2026-02-13 17:33:10,018 - INFO - 频道 广东卫视 的URL http://23.237.228.134/live6/guangdong.m3u8 在 4 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist', '☘️广东频道'}
-2026-02-13 17:33:10,018 - INFO - 频道 广西卫视 的URL http://23.237.228.134/live6/guizhou.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,018 - INFO - 频道 广西卫视 的URL http://23.237.228.134/live6/guangxi.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,019 - INFO - 频道 甘肃卫视 的URL http://live.zohi.tv/video/s10001-fztv-3/index.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,019 - INFO - 频道 贵州卫视 的URL http://23.237.228.134/live6/hainan.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,020 - INFO - 频道 湖北卫视 的URL http://23.237.228.134/live6/hubei.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,021 - INFO - 频道 青海卫视 的URL http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,022 - INFO - 频道 天津卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8 在 3 个订阅源中出现: {'📡卫视频道', '卫视频道', '☘️天津频道'}
-2026-02-13 17:33:10,022 - INFO - 频道 新疆卫视 的URL http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub 在 4 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist', '☘️新疆频道'}
-2026-02-13 17:33:10,023 - INFO - 频道 安多卫视 的URL https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd 在 3 个订阅源中出现: {'卫视频道', '青海频道', 'whitelist'}
-2026-02-13 17:33:10,023 - INFO - 频道 安多卫视 的URL https://liveout.xntv.tv/a65jur/96iln2.m3u8 在 4 个订阅源中出现: {'☘️青海频道', '青海频道', 'whitelist', '卫视频道'}
-2026-02-13 17:33:10,024 - INFO - 频道 安多卫视 的URL https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing 在 4 个订阅源中出现: {'☘️青海频道', '青海频道', 'whitelist', '卫视频道'}
-2026-02-13 17:33:10,024 - INFO - 频道 安多卫视 的URL http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8 在 3 个订阅源中出现: {'☘️青海频道', '青海频道', '卫视频道'}
-2026-02-13 17:33:10,024 - INFO - 频道 三沙卫视 的URL http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', 'whitelist'}
-2026-02-13 17:33:10,025 - INFO - 频道 延边卫视 的URL http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8# 在 3 个订阅源中出现: {'卫视频道', 'whitelist', '吉林频道'}
-2026-02-13 17:33:10,025 - INFO - 频道 延边卫视 的URL http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8 在 3 个订阅源中出现: {'吉林频道', '☘️吉林频道', '卫视频道'}
-2026-02-13 17:33:10,034 - INFO - 匹配完成✅，共匹配到 23 个频道，30 个URL（仅保留在至少3个订阅源中都出现的URL）
+2026-02-13 19:23:41,894 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
+2026-02-13 19:23:41,895 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-02-13 19:23:42,252 - INFO - url: http://156.238.251.122:7000/txt 获取成功，判断为标准的TXT格式
+2026-02-13 19:23:42,259 - INFO - url: http://156.238.251.122:7000/txt 爬取成功✅，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️海南频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️宁夏频道, ☘️吉林频道, ☘️内蒙古频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🎬电影频道, 🎥咪咕直播, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
+2026-02-13 19:23:42,488 - ERROR - url: http://64.81.114.28:7000/txt 爬取失败❌, Error: HTTPConnectionPool(host='64.81.114.28', port=7000): Max retries exceeded with url: /txt (Caused by NewConnectionError("HTTPConnection(host='64.81.114.28', port=7000): Failed to establish a new connection: [Errno 111] Connection refused"))
+2026-02-13 19:23:42,648 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 获取成功，判断为标准的TXT格式
+2026-02-13 19:23:42,651 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 安徽频道, 北京频道, 重庆频道, 福建频道, 甘肃频道, 广东频道, 广西频道, 贵州频道, 海南频道, 河北频道, 河南频道, 湖北频道, 湖南频道, 黑龙江频道, 吉林频道, 江苏频道, 辽宁频道, 内蒙古频道, 宁夏频道, 青海频道, 山东频道, 山西频道, 陕西频道, 四川频道, 上海频道, 天津频道, 新疆频道, 云南频道, 浙江频道, 其它频道, 港·澳·台, AKTV, 海外频道
+2026-02-13 19:23:42,709 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
+2026-02-13 19:23:42,710 - INFO - 频道 CCTV-2财经 的URL http://23.237.228.134/live5/CCTV2.m3u8 在 3 个订阅源中出现: {'央视频道', 'whitelist', '📺央视频道'}
+2026-02-13 19:23:42,710 - INFO - 频道 CCTV-3综艺 的URL http://23.237.228.134/live5/CCTV3.m3u8 在 3 个订阅源中出现: {'央视频道', 'whitelist', '📺央视频道'}
+2026-02-13 19:23:42,712 - INFO - 频道 CCTV-5+体育赛事 的URL http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8 在 3 个订阅源中出现: {'央视频道', '🏀体育频道', '📺央视频道'}
+2026-02-13 19:23:42,712 - INFO - 频道 CCTV-7国防军事 的URL http://23.237.228.134/live5/CCTV7.m3u8 在 3 个订阅源中出现: {'央视频道', 'whitelist', '📺央视频道'}
+2026-02-13 19:23:42,714 - INFO - 频道 湖南卫视 的URL http://23.237.228.134/live6/hunan.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,714 - INFO - 频道 浙江卫视 的URL http://23.237.228.134/live6/zhejiang.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,714 - INFO - 频道 浙江卫视 的URL http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '浙江频道'}
+2026-02-13 19:23:42,714 - INFO - 频道 东方卫视 的URL http://23.237.228.134/live6/dongnan.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,715 - INFO - 频道 北京卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8 在 3 个订阅源中出现: {'北京频道', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,715 - INFO - 频道 江苏卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010059/1.m3u8 在 3 个订阅源中出现: {'卫视频道', '江苏频道', '📡卫视频道'}
+2026-02-13 19:23:42,716 - INFO - 频道 重庆卫视 的URL http://23.237.228.134/live6/chongqing.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,716 - INFO - 频道 东南卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8 在 3 个订阅源中出现: {'卫视频道', '福建频道', '📡卫视频道'}
+2026-02-13 19:23:42,717 - INFO - 频道 深圳卫视 的URL http://23.237.228.134/live6/shenzhen.m3u8 在 4 个订阅源中出现: {'whitelist', '☘️广东频道', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,717 - INFO - 频道 深圳卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8 在 4 个订阅源中出现: {'广东频道', '☘️广东频道', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,717 - INFO - 频道 广东卫视 的URL http://23.237.228.134/live6/guangdong.m3u8 在 4 个订阅源中出现: {'whitelist', '☘️广东频道', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,717 - INFO - 频道 广西卫视 的URL http://23.237.228.134/live6/guizhou.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,717 - INFO - 频道 广西卫视 的URL http://23.237.228.134/live6/guangxi.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,718 - INFO - 频道 贵州卫视 的URL http://23.237.228.134/live6/hainan.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,719 - INFO - 频道 湖北卫视 的URL http://23.237.228.134/live6/hubei.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,720 - INFO - 频道 青海卫视 的URL http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,721 - INFO - 频道 天津卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8 在 3 个订阅源中出现: {'☘️天津频道', '📡卫视频道', '卫视频道'}
+2026-02-13 19:23:42,721 - INFO - 频道 新疆卫视 的URL http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub 在 4 个订阅源中出现: {'whitelist', '卫视频道', '☘️新疆频道', '📡卫视频道'}
+2026-02-13 19:23:42,722 - INFO - 频道 安多卫视 的URL https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd 在 3 个订阅源中出现: {'whitelist', '卫视频道', '青海频道'}
+2026-02-13 19:23:42,722 - INFO - 频道 安多卫视 的URL https://liveout.xntv.tv/a65jur/96iln2.m3u8 在 4 个订阅源中出现: {'whitelist', '卫视频道', '☘️青海频道', '青海频道'}
+2026-02-13 19:23:42,722 - INFO - 频道 安多卫视 的URL https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing 在 4 个订阅源中出现: {'whitelist', '卫视频道', '☘️青海频道', '青海频道'}
+2026-02-13 19:23:42,722 - INFO - 频道 安多卫视 的URL http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8 在 3 个订阅源中出现: {'☘️青海频道', '卫视频道', '青海频道'}
+2026-02-13 19:23:42,723 - INFO - 频道 三沙卫视 的URL http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-13 19:23:42,724 - INFO - 频道 延边卫视 的URL http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8# 在 3 个订阅源中出现: {'whitelist', '卫视频道', '吉林频道'}
+2026-02-13 19:23:42,724 - INFO - 频道 延边卫视 的URL http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8 在 3 个订阅源中出现: {'卫视频道', '吉林频道', '☘️吉林频道'}
+2026-02-13 19:23:42,732 - INFO - 匹配完成✅，共匹配到 22 个频道，29 个URL（仅保留在至少3个订阅源中都出现的URL）
