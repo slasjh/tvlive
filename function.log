@@ -1,191 +1,38 @@
-2026-02-14 03:03:37,723 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 获取成功，判断为标准的TXT格式
-2026-02-14 03:03:37,725 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 江苏地区, 黑龙江地区, 江西地区, 陕西地区, 安徽地区, 重庆地区, 云南地区, 福建地区, 河南地区, 甘肃地区, 超清频道
-2026-02-14 03:03:37,901 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 获取成功，判断为标准的TXT格式
-2026-02-14 03:03:37,901 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 爬取成功✅，包含频道分类: 🤠小土豆直播, 🇨🇳央视, 📡卫视, 🇭🇰港澳台
-2026-02-14 03:03:37,926 - INFO - url: http://156.238.251.122:888/live/fh.txt 获取成功，判断为标准的TXT格式
-2026-02-14 03:03:37,926 - INFO - url: http://156.238.251.122:888/live/fh.txt 爬取成功✅，包含频道分类: 香港
-2026-02-14 03:03:38,367 - ERROR - url: http://545211.xyz:888/live/dalao/all.m3u 爬取失败❌, Error: 404 Client Error: Not Found for url: http://545211.xyz:888/live/dalao/all.m3u
-2026-02-14 03:03:38,598 - INFO - url: http://545211.xyz:888/live/dalao/qun.m3u 获取成功，判断为标准的M3U格式
-2026-02-14 03:03:38,599 - INFO - url: http://545211.xyz:888/live/dalao/qun.m3u 识别为非标准格式，将使用默认分类“无分类”
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: #EXTM3U
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg1.php?id=CCTV10
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg1.php?id=CCTV9
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-2026-02-14 03:03:38,599 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg1.php?id=CCTV14
-2026-02-14 03:03:38,600 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.121:5540
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live5/CCTV5p.m3u8
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.245.32:801/hls/6/index.m3u8
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.008:5540
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://cards.imwork.net:15893/udp/239.3.1.129:8008
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.254:5540
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live5/CCTV1.m3u8
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://cards.imwork.net:15893/udp/239.3.1.60:8084
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.003:5540
-2026-02-14 03:03:38,601 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live5/CCTV2.m3u8
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://39.165.39.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.231:5540
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live5/CCTV3.m3u8
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.232:5540
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live5/CCTV7.m3u8
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.234:5540
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live5/CCTV9.m3u8
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.005:5540
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/9/index.m3u8
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/12/index.m3u8
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/16/index.m3u8
-2026-02-14 03:03:38,602 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/5/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/4/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/7/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/8/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/15/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/6/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/10/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/14/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/2/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/3/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/11/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/13/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/1/index.m3u8
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-2026-02-14 03:03:38,603 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.57:9000
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.113:8066
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.91:10186
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.253.247:9000
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.58:9000
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.56:9000
-2026-02-14 03:03:38,604 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.55:9000
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.249:6103
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.53:9000
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.98:6120
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.61:9000
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.17:6078
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.49:9000
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-2026-02-14 03:03:38,605 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://www.qfly9236.cn:8888/rtp/239.253.92.18:6079
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.18:6079
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.74:10084
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.50:9000
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.110:8061
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.52:9000
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.51:9000
-2026-02-14 03:03:38,606 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.117:8062
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://w.yao87.com:4022/rtp/239.76.254.62:9000
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.124:5540
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/dongnan.m3u8
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/32/index.m3u8
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.123:5540
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg4.php?id=云南卫视
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/47/index.m3u8
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://pull-vivek.speedws.com/live/aaafhzw.flv
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/205/index.m3u8
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.009:5540
-2026-02-14 03:03:38,607 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/28/index.m3u8
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg4.php?id=厦门卫视
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/40/index.m3u8
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.151:5540
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/sichuan.m3u8
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/54/index.m3u8
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.004:5540
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/55/index.m3u8
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/48/index.m3u8
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.159:5540
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/29/index.m3u8
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/51/index.m3u8
-2026-02-14 03:03:38,608 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/52/index.m3u8
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.012:5540
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/guangdong.m3u8
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/guangxi.m3u8
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/34/index.m3u8
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/57/index.m3u8
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg4.php?id=新疆卫视
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://cards.imwork.net:15893/udp/239.3.1.135:8028
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.112:5540
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://69.30.246.194/live/jsws.m3u8
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.245.32:801/hls/42/index.m3u8
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/42/index.m3u8
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/43/index.m3u8
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.154:5540
-2026-02-14 03:03:38,609 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://112.123.243.37:50085/tsfile/live/0018_1.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/37/index.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/38/index.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg4.php?id=河南卫视
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/zhejiang.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://69.30.246.194/live/zjws.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/58/index.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/hainan.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/36/index.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg4.php?id=海南卫视
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.014:5540
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/shenzhen.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
-2026-02-14 03:03:38,610 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/hubei.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/hunan.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://69.30.246.194/live/hnws.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/27/index.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/33/index.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg4.php?id=甘肃卫视
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/56/index.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/guizhou.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/35/index.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg4.php?id=贵州卫视
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://23.237.228.134/live6/chongqing.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/59/index.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/53/index.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://hc8q.x3322.net:3000/738910838
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/49/index.m3u8
-2026-02-14 03:03:38,611 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://119.91.7.169:2026/tv/mg4.php?id=青海卫视
-2026-02-14 03:03:38,612 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://jildx.chunfengyun.top:8800/rtp/239.37.0.013:5540
-2026-02-14 03:03:38,612 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-2026-02-14 03:03:38,612 - WARNING - url: http://545211.xyz:888/live/dalao/qun.m3u 中有无法解析的行: http://27.41.244.148:801/hls/39/index.m3u8
-2026-02-14 03:03:38,612 - INFO - url: http://545211.xyz:888/live/dalao/qun.m3u 爬取成功✅，包含频道分类: 飞扬标清, 飞扬蓝光, 💎央卫IPTV, 💎国内央卫, 🎥低端观影, 更新时间2026-02-13-22:10, 💎新央卫北京联通, 央视频道, 📺央视数字, 飞扬数字, 卫视频道, 飞扬新港, 广东汕头, 📺全网通央卫超清, 深圳卫视4K, 卫视, 无分类
-2026-02-14 03:03:38,769 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 获取成功，判断为标准的TXT格式
-2026-02-14 03:03:38,770 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 香港, 🔥历年春晚
-2026-02-14 03:03:38,955 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
-2026-02-14 03:03:38,956 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-02-14 03:34:36,144 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
+2026-02-14 03:34:36,145 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-02-14 03:34:36,462 - INFO - url: http://156.238.251.122:7000/txt 获取成功，判断为标准的TXT格式
+2026-02-14 03:34:36,469 - INFO - url: http://156.238.251.122:7000/txt 爬取成功✅，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️海南频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️宁夏频道, ☘️吉林频道, ☘️内蒙古频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🎬电影频道, 🎥咪咕直播, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
+2026-02-14 03:34:36,699 - ERROR - url: http://64.81.114.28:7000/txt 爬取失败❌, Error: HTTPConnectionPool(host='64.81.114.28', port=7000): Max retries exceeded with url: /txt (Caused by NewConnectionError("HTTPConnection(host='64.81.114.28', port=7000): Failed to establish a new connection: [Errno 111] Connection refused"))
+2026-02-14 03:34:36,867 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 获取成功，判断为标准的TXT格式
+2026-02-14 03:34:36,871 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 安徽频道, 北京频道, 重庆频道, 福建频道, 甘肃频道, 广东频道, 广西频道, 贵州频道, 海南频道, 河北频道, 河南频道, 湖北频道, 湖南频道, 黑龙江频道, 吉林频道, 江苏频道, 辽宁频道, 内蒙古频道, 宁夏频道, 青海频道, 山东频道, 山西频道, 陕西频道, 四川频道, 上海频道, 天津频道, 新疆频道, 云南频道, 浙江频道, 其它频道, 港·澳·台, AKTV, 海外频道
+2026-02-14 03:34:36,981 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
+2026-02-14 03:34:36,983 - INFO - 频道 CCTV-2财经 的URL http://23.237.228.134/live5/CCTV2.m3u8 在 3 个订阅源中出现: {'whitelist', '央视频道', '📺央视频道'}
+2026-02-14 03:34:36,983 - INFO - 频道 CCTV-3综艺 的URL http://23.237.228.134/live5/CCTV3.m3u8 在 3 个订阅源中出现: {'whitelist', '央视频道', '📺央视频道'}
+2026-02-14 03:34:36,984 - INFO - 频道 CCTV-5+体育赛事 的URL http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8 在 3 个订阅源中出现: {'🏀体育频道', '央视频道', '📺央视频道'}
+2026-02-14 03:34:36,985 - INFO - 频道 CCTV-7国防军事 的URL http://23.237.228.134/live5/CCTV7.m3u8 在 3 个订阅源中出现: {'whitelist', '央视频道', '📺央视频道'}
+2026-02-14 03:34:36,987 - INFO - 频道 湖南卫视 的URL http://23.237.228.134/live6/hunan.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,987 - INFO - 频道 浙江卫视 的URL http://23.237.228.134/live6/zhejiang.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,987 - INFO - 频道 浙江卫视 的URL http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '浙江频道'}
+2026-02-14 03:34:36,987 - INFO - 频道 东方卫视 的URL http://23.237.228.134/live6/dongnan.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,987 - INFO - 频道 北京卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', '北京频道'}
+2026-02-14 03:34:36,988 - INFO - 频道 江苏卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010059/1.m3u8 在 3 个订阅源中出现: {'江苏频道', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,988 - INFO - 频道 重庆卫视 的URL http://23.237.228.134/live6/chongqing.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,989 - INFO - 频道 东南卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8 在 3 个订阅源中出现: {'卫视频道', '📡卫视频道', '福建频道'}
+2026-02-14 03:34:36,989 - INFO - 频道 深圳卫视 的URL http://23.237.228.134/live6/shenzhen.m3u8 在 4 个订阅源中出现: {'whitelist', '☘️广东频道', '📡卫视频道', '卫视频道'}
+2026-02-14 03:34:36,989 - INFO - 频道 深圳卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8 在 4 个订阅源中出现: {'广东频道', '☘️广东频道', '📡卫视频道', '卫视频道'}
+2026-02-14 03:34:36,989 - INFO - 频道 广东卫视 的URL http://23.237.228.134/live6/guangdong.m3u8 在 4 个订阅源中出现: {'whitelist', '☘️广东频道', '📡卫视频道', '卫视频道'}
+2026-02-14 03:34:36,989 - INFO - 频道 广西卫视 的URL http://23.237.228.134/live6/guangxi.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,990 - INFO - 频道 广西卫视 的URL http://23.237.228.134/live6/guizhou.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,990 - INFO - 频道 贵州卫视 的URL http://23.237.228.134/live6/hainan.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,991 - INFO - 频道 湖北卫视 的URL http://23.237.228.134/live6/hubei.m3u8 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,992 - INFO - 频道 青海卫视 的URL http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,992 - INFO - 频道 天津卫视 的URL http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8 在 3 个订阅源中出现: {'☘️天津频道', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,993 - INFO - 频道 新疆卫视 的URL http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub 在 4 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道', '☘️新疆频道'}
+2026-02-14 03:34:36,994 - INFO - 频道 安多卫视 的URL https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd 在 3 个订阅源中出现: {'whitelist', '卫视频道', '青海频道'}
+2026-02-14 03:34:36,994 - INFO - 频道 安多卫视 的URL https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing 在 4 个订阅源中出现: {'whitelist', '☘️青海频道', '卫视频道', '青海频道'}
+2026-02-14 03:34:36,994 - INFO - 频道 安多卫视 的URL https://liveout.xntv.tv/a65jur/96iln2.m3u8 在 4 个订阅源中出现: {'whitelist', '☘️青海频道', '卫视频道', '青海频道'}
+2026-02-14 03:34:36,994 - INFO - 频道 安多卫视 的URL http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8 在 3 个订阅源中出现: {'☘️青海频道', '卫视频道', '青海频道'}
+2026-02-14 03:34:36,995 - INFO - 频道 三沙卫视 的URL http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub 在 3 个订阅源中出现: {'whitelist', '卫视频道', '📡卫视频道'}
+2026-02-14 03:34:36,995 - INFO - 频道 延边卫视 的URL http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8# 在 3 个订阅源中出现: {'whitelist', '卫视频道', '吉林频道'}
+2026-02-14 03:34:36,995 - INFO - 频道 延边卫视 的URL http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8 在 3 个订阅源中出现: {'卫视频道', '☘️吉林频道', '吉林频道'}
+2026-02-14 03:34:37,004 - INFO - 匹配完成✅，共匹配到 22 个频道，29 个URL（仅保留在至少3个订阅源中都出现的URL）
