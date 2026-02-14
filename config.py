@@ -7,6 +7,7 @@ source_urls = [
     "http://156.238.251.122:888/live/fh.txt",
    "http://545211.xyz:888/live/dalao/all.m3u",
    "http://545211.xyz:888/live/dalao/qun.m3u",
+   "http://545211.xyz:888/live/dalao/like.m3u",
     "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt",
    "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt"
     #"http://64.81.114.28:7000/txt"
