@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-14 13:52" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-14 13:52
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-14 14:58" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-14 14:58
 http://1.1.1.1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8$小土豆•IPV4『线路1』
@@ -2742,13 +2742,15 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 #EXTINF:-1 tvg-id="3" tvg-name="中天娱乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天娱乐.png" group-title="🇭🇰港澳台",中天娱乐
 http://iptv.fr.to/test/Fmtv.php?id=ztyl$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="🇭🇰港澳台",中天新闻
-http://67.220.67.246:2347/livehttpplay?channel_id=20163$小土豆•IPV4『线路1』
+http://222.128.55.152:9080/live/fc.m3u8$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="🇭🇰港澳台",中天新闻
-https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8$小土豆•IPV4『线路2』
+https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctinews$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="🇭🇰港澳台",中天新闻
-http://222.128.55.152:9080/live/fc.m3u8$小土豆•IPV4『线路3』
+http://67.220.67.246:2347/livehttpplay?channel_id=20163$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="🇭🇰港澳台",中天新闻
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715$小土豆•IPV4『线路4』
+https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8$小土豆•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="🇭🇰港澳台",中天新闻
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715$小土豆•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="中天综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天综合.png" group-title="🇭🇰港澳台",中天综合
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LytrDmp92dzgtBDDsBPYq9d1PkF-ehb8KGSKG97NUV5imHRRH3orv1cjbdNh-lAVApY2BBe6FN8LsYAyxf3YIqdRgxErAu_aSZcv5F4kajjPN_thS4oQUSFIQYKEP0g5A_0r8gpL0WcWVEEsYp2Iyn3Drel3fo5thvkdMmpFujakt_Z02jpSESQQ9wb9697MAHg.m3u8?u=1756878715$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="中天综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天综合.png" group-title="🇭🇰港澳台",中天综合
