@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-15 16:44" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-15 16:44
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-15 18:37" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-15 18:37
 http://1.1.1.1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$小土豆•IPV4『线路1』
@@ -82,9 +82,7 @@ http://www.douzhicloud.site:35455/mgtv/608807420.m3u8$小土豆•IPV4『线路3
 #EXTINF:-1 tvg-id="40" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 rtp://239.3.1.129:8008$小土豆•IPV4『线路40』
 #EXTINF:-1 tvg-id="41" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
-http://xn--zfru7t73y.onlinewebshop.net/api.php?n=HKTV&id=iaKWv1&tk=O75UrneSziGX$小土豆•IPV4『线路41』
-#EXTINF:-1 tvg-id="42" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$小土豆•IPV4『线路42』
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$小土豆•IPV4『线路41』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
 http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
@@ -108,41 +106,43 @@ http://218.13.14.6:60050/tsfile/live/1002_1.m3u8$小土豆•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
 http://58.57.40.22:9901/tsfile/live/1001_1.m3u8$小土豆•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://8.138.7.223/tv/migu666.php?id=cctv2$小土豆•IPV4『线路12』
+http://xn--zfru7t73y.onlinewebshop.net/api.php?n=HKTV&id=meKBTM&tk=O75UrneSziGX$小土豆•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8$小土豆•IPV4『线路13』
+http://8.138.7.223/tv/migu666.php?id=cctv2$小土豆•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://175.8.28.207:9999/tsfile/live/0002_1.m3u8$小土豆•IPV4『线路14』
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8$小土豆•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-https://www.wmviv.com/iptv/bc2t.php?id=cctv2$小土豆•IPV4『线路15』
+http://175.8.28.207:9999/tsfile/live/0002_1.m3u8$小土豆•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://112.27.235.94:8000/hls/2/index.m3u8$小土豆•IPV4『线路16』
+https://www.wmviv.com/iptv/bc2t.php?id=cctv2$小土豆•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$小土豆•IPV4『线路17』
+http://112.27.235.94:8000/hls/2/index.m3u8$小土豆•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$小土豆•IPV4『线路18』
+http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$小土豆•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://t.061899.xyz/tl/tl.php?id=cctv2$小土豆•IPV4『线路19』
+http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$小土豆•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://cards.imwork.net:15893/udp/239.3.1.60:8084$小土豆•IPV4『线路20』
+http://t.061899.xyz/tl/tl.php?id=cctv2$小土豆•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://jildx.chunfengyun.top:8800/rtp/239.37.0.003:5540$小土豆•IPV4『线路21』
+http://cards.imwork.net:15893/udp/239.3.1.60:8084$小土豆•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://enydir.gicp.net:7088/udp/239.29.0.116:5000$小土豆•IPV4『线路22』
+http://jildx.chunfengyun.top:8800/rtp/239.37.0.003:5540$小土豆•IPV4『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://23.237.228.134/live5/CCTV2.m3u8$小土豆•IPV4『线路23』
+http://enydir.gicp.net:7088/udp/239.29.0.116:5000$小土豆•IPV4『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://111.170.157.210:1081/?id=631780532&auth=95d4c11f9a4bc430bf05d5da4ace7ccb3086a0825492913bdcdccf25b70489aaa369f66c974eae25bdf70cc73f4775f2$小土豆•IPV4『线路24』
+http://23.237.228.134/live5/CCTV2.m3u8$小土豆•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://A/ku9/js/咪咕超简版.js?id=631780532$小土豆•IPV4『线路25』
+http://111.170.157.210:1081/?id=631780532&auth=95d4c11f9a4bc430bf05d5da4ace7ccb3086a0825492913bdcdccf25b70489aaa369f66c974eae25bdf70cc73f4775f2$小土豆•IPV4『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://hc8q.x3322.net:3000/631780532$小土豆•IPV4『线路26』
+http://A/ku9/js/咪咕超简版.js?id=631780532$小土豆•IPV4『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://221.12.123.211:1234/631780532$小土豆•IPV4『线路27』
+http://hc8q.x3322.net:3000/631780532$小土豆•IPV4『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://www.douzhicloud.site:35455/mgtv/631780532.m3u8$小土豆•IPV4『线路28』
+http://221.12.123.211:1234/631780532$小土豆•IPV4『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-rtp://239.3.1.60:8084$小土豆•IPV4『线路29』
+http://www.douzhicloud.site:35455/mgtv/631780532.m3u8$小土豆•IPV4『线路29』
+#EXTINF:-1 tvg-id="30" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
+rtp://239.3.1.60:8084$小土豆•IPV4『线路30』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
 http://74.91.26.218:82/live/cctv3hd.m3u8$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
@@ -172,47 +172,45 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpubmigutv3://62487827
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
 http://58.57.40.22:9901/tsfile/live/1002_1.m3u8$小土豆•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://xn--zfru7t73y.onlinewebshop.net/api.php?n=HKTV&id=B1FQoS&tk=O75UrneSziGX$小土豆•IPV4『线路15』
+http://8.138.7.223/tv/migu666.php?id=cctv3$小土豆•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://8.138.7.223/tv/migu666.php?id=cctv3$小土豆•IPV4『线路16』
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8$小土豆•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8$小土豆•IPV4『线路17』
+http://175.8.28.207:9999/tsfile/live/0003_1.m3u8$小土豆•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://175.8.28.207:9999/tsfile/live/0003_1.m3u8$小土豆•IPV4『线路18』
+https://www.wmviv.com/iptv/bc2t.php?id=cctv3$小土豆•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-https://www.wmviv.com/iptv/bc2t.php?id=cctv3$小土豆•IPV4『线路19』
+http://112.27.235.94:8000/hls/3/index.m3u8$小土豆•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://112.27.235.94:8000/hls/3/index.m3u8$小土豆•IPV4『线路20』
+http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$小土豆•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$小土豆•IPV4『线路21』
+https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8$小土豆•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8$小土豆•IPV4『线路22』
+https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8$小土豆•IPV4『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8$小土豆•IPV4『线路23』
+http://39.165.39.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0$小土豆•IPV4『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://39.165.39.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0$小土豆•IPV4『线路24』
+http://t.061899.xyz/tl/tl.php?id=cctv3$小土豆•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://t.061899.xyz/tl/tl.php?id=cctv3$小土豆•IPV4『线路25』
+http://cards.imwork.net:15893/udp/239.3.1.172:8001$小土豆•IPV4『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://cards.imwork.net:15893/udp/239.3.1.172:8001$小土豆•IPV4『线路26』
+http://jildx.chunfengyun.top:8800/rtp/239.37.0.231:5540$小土豆•IPV4『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://jildx.chunfengyun.top:8800/rtp/239.37.0.231:5540$小土豆•IPV4『线路27』
+http://enydir.gicp.net:7088/udp/239.29.1.133:5000$小土豆•IPV4『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://enydir.gicp.net:7088/udp/239.29.1.133:5000$小土豆•IPV4『线路28』
+http://23.237.228.134/live5/CCTV3.m3u8$小土豆•IPV4『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://23.237.228.134/live5/CCTV3.m3u8$小土豆•IPV4『线路29』
+http://111.170.157.210:1081/?id=624878271&auth=95d4c11f9a4bc430bf05d5da4ace7ccb4098ce857ddb4c5fbba6f931fc6b5c65b17b404ff58d76eee7f546598fb7a911$小土豆•IPV4『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://111.170.157.210:1081/?id=624878271&auth=95d4c11f9a4bc430bf05d5da4ace7ccb4098ce857ddb4c5fbba6f931fc6b5c65b17b404ff58d76eee7f546598fb7a911$小土豆•IPV4『线路30』
+http://A/ku9/js/咪咕超简版.js?id=624878271$小土豆•IPV4『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://A/ku9/js/咪咕超简版.js?id=624878271$小土豆•IPV4『线路31』
+http://hc8q.x3322.net:3000/624878271$小土豆•IPV4『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://hc8q.x3322.net:3000/624878271$小土豆•IPV4『线路32』
+http://221.12.123.211:1234/624878271$小土豆•IPV4『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://221.12.123.211:1234/624878271$小土豆•IPV4『线路33』
+http://www.douzhicloud.site:35455/mgtv/624878271.m3u8$小土豆•IPV4『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://www.douzhicloud.site:35455/mgtv/624878271.m3u8$小土豆•IPV4『线路34』
-#EXTINF:-1 tvg-id="35" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-rtp://239.3.1.172:8001$小土豆•IPV4『线路35』
+rtp://239.3.1.172:8001$小土豆•IPV4『线路34』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-4中文国际.png" group-title="🇨🇳央视",CCTV-4中文国际
 https://migu.188766.xyz/?migutoken=4172952a88a1a9467a6a6541369c5f57&id=CCTV4&type=yy$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-4中文国际.png" group-title="🇨🇳央视",CCTV-4中文国际
@@ -332,45 +330,43 @@ http://218.13.14.6:60050/tsfile/live/1005_1.m3u8$小土豆•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
 http://58.57.40.22:9901/tsfile/live/1004_1.m3u8$小土豆•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://xn--zfru7t73y.onlinewebshop.net/api.php?n=HKTV&id=kyZx5k&tk=O75UrneSziGX$小土豆•IPV4『线路14』
+http://8.138.7.223/tv/migu666.php?id=cctv5$小土豆•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://8.138.7.223/tv/migu666.php?id=cctv5$小土豆•IPV4『线路15』
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$小土豆•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$小土豆•IPV4『线路16』
+http://175.8.28.207:9999/tsfile/live/0005_1.m3u8$小土豆•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://175.8.28.207:9999/tsfile/live/0005_1.m3u8$小土豆•IPV4『线路17』
+https://www.wmviv.com/iptv/bc2t.php?id=cctv5$小土豆•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-https://www.wmviv.com/iptv/bc2t.php?id=cctv5$小土豆•IPV4『线路18』
+http://112.27.235.94:8000/hls/5/index.m3u8$小土豆•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://112.27.235.94:8000/hls/5/index.m3u8$小土豆•IPV4『线路19』
+http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$小土豆•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$小土豆•IPV4『线路20』
+https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8$小土豆•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8$小土豆•IPV4『线路21』
+https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8$小土豆•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8$小土豆•IPV4『线路22』
+http://t.061899.xyz/tl/tl.php?id=cctv5$小土豆•IPV4『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://t.061899.xyz/tl/tl.php?id=cctv5$小土豆•IPV4『线路23』
+http://cards.imwork.net:15893/udp/239.3.1.173:8001$小土豆•IPV4『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://cards.imwork.net:15893/udp/239.3.1.173:8001$小土豆•IPV4『线路24』
+http://jildx.chunfengyun.top:8800/rtp/239.37.0.232:5540$小土豆•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://jildx.chunfengyun.top:8800/rtp/239.37.0.232:5540$小土豆•IPV4『线路25』
+http://enydir.gicp.net:7088/udp/239.29.1.134:5000$小土豆•IPV4『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://enydir.gicp.net:7088/udp/239.29.1.134:5000$小土豆•IPV4『线路26』
+http://23.237.228.134/live5/CCTV5.m3u8$小土豆•IPV4『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://23.237.228.134/live5/CCTV5.m3u8$小土豆•IPV4『线路27』
+http://111.170.157.210:1081/?id=641886683&auth=95d4c11f9a4bc430bf05d5da4ace7ccb7e51d44470f9033b4bec6fc615d1ec63c4f27e53cc277d8e45d00a4864c7e061$小土豆•IPV4『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://111.170.157.210:1081/?id=641886683&auth=95d4c11f9a4bc430bf05d5da4ace7ccb7e51d44470f9033b4bec6fc615d1ec63c4f27e53cc277d8e45d00a4864c7e061$小土豆•IPV4『线路28』
+http://A/ku9/js/咪咕超简版.js?id=641886683$小土豆•IPV4『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://A/ku9/js/咪咕超简版.js?id=641886683$小土豆•IPV4『线路29』
+http://hc8q.x3322.net:3000/641886683$小土豆•IPV4『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://hc8q.x3322.net:3000/641886683$小土豆•IPV4『线路30』
+http://221.12.123.211:1234/641886683$小土豆•IPV4『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://221.12.123.211:1234/641886683$小土豆•IPV4『线路31』
+http://www.douzhicloud.site:35455/mgtv/641886683.m3u8$小土豆•IPV4『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://www.douzhicloud.site:35455/mgtv/641886683.m3u8$小土豆•IPV4『线路32』
-#EXTINF:-1 tvg-id="33" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-rtp://239.3.1.173:8001$小土豆•IPV4『线路33』
+rtp://239.3.1.173:8001$小土豆•IPV4『线路32』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5+体育赛事.png" group-title="🇨🇳央视",CCTV-5+体育赛事
 https://migu.188766.xyz/?migutoken=b6abef0af417363da4f3cd17e498d3f7&id=CCTV5p&type=yy$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5+体育赛事.png" group-title="🇨🇳央视",CCTV-5+体育赛事
@@ -672,45 +668,43 @@ http://218.13.14.6:60050/tsfile/live/1010_1.m3u8$小土豆•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
 http://58.57.40.22:9901/tsfile/live/1010_1.m3u8$小土豆•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://xn--zfru7t73y.onlinewebshop.net/api.php?n=HKTV&id=j1sB1T&tk=O75UrneSziGX$小土豆•IPV4『线路13』
+http://8.138.7.223/tv/migu666.php?id=cctv10$小土豆•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://8.138.7.223/tv/migu666.php?id=cctv10$小土豆•IPV4『线路14』
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8$小土豆•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8$小土豆•IPV4『线路15』
+http://175.8.28.207:9999/tsfile/live/0010_1.m3u8$小土豆•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://175.8.28.207:9999/tsfile/live/0010_1.m3u8$小土豆•IPV4『线路16』
+https://www.wmviv.com/iptv/bc2t.php?id=cctv10$小土豆•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-https://www.wmviv.com/iptv/bc2t.php?id=cctv10$小土豆•IPV4『线路17』
+http://112.27.235.94:8000/hls/11/index.m3u8$小土豆•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://112.27.235.94:8000/hls/11/index.m3u8$小土豆•IPV4『线路18』
+http://39.135.135.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$小土豆•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://39.135.135.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$小土豆•IPV4『线路19』
+https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8$小土豆•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8$小土豆•IPV4『线路20』
+https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8$小土豆•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8$小土豆•IPV4『线路21』
+http://t.061899.xyz/tl/tl.php?id=cctv10$小土豆•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://t.061899.xyz/tl/tl.php?id=cctv10$小土豆•IPV4『线路22』
+http://cards.imwork.net:15893/udp/239.3.1.63:8116$小土豆•IPV4『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://cards.imwork.net:15893/udp/239.3.1.63:8116$小土豆•IPV4『线路23』
+http://jildx.chunfengyun.top:8800/rtp/239.37.0.007:5540$小土豆•IPV4『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://jildx.chunfengyun.top:8800/rtp/239.37.0.007:5540$小土豆•IPV4『线路24』
+http://enydir.gicp.net:7088/udp/239.29.0.119:5000$小土豆•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://enydir.gicp.net:7088/udp/239.29.0.119:5000$小土豆•IPV4『线路25』
+http://23.237.228.134/live3/CCTV10.m3u8$小土豆•IPV4『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://23.237.228.134/live3/CCTV10.m3u8$小土豆•IPV4『线路26』
+http://111.170.157.210:1081/?id=624878405&auth=95d4c11f9a4bc430bf05d5da4ace7ccbaf534ad45f6e68922c3fe4322e7576cf4faad966b211cab6e253e78e27ed92e3$小土豆•IPV4『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://111.170.157.210:1081/?id=624878405&auth=95d4c11f9a4bc430bf05d5da4ace7ccbaf534ad45f6e68922c3fe4322e7576cf4faad966b211cab6e253e78e27ed92e3$小土豆•IPV4『线路27』
+http://A/ku9/js/咪咕超简版.js?id=624878405$小土豆•IPV4『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://A/ku9/js/咪咕超简版.js?id=624878405$小土豆•IPV4『线路28』
+http://hc8q.x3322.net:3000/624878405$小土豆•IPV4『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://hc8q.x3322.net:3000/624878405$小土豆•IPV4『线路29』
+http://221.12.123.211:1234/624878405$小土豆•IPV4『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://221.12.123.211:1234/624878405$小土豆•IPV4『线路30』
+http://www.douzhicloud.site:35455/mgtv/624878405.m3u8$小土豆•IPV4『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://www.douzhicloud.site:35455/mgtv/624878405.m3u8$小土豆•IPV4『线路31』
-#EXTINF:-1 tvg-id="32" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-rtp://239.3.1.63:8116$小土豆•IPV4『线路32』
+rtp://239.3.1.63:8116$小土豆•IPV4『线路31』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-11戏曲" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-11戏曲.png" group-title="🇨🇳央视",CCTV-11戏曲
 https://migu.188766.xyz/?migutoken=86fad70c3a00571d22141b2c2f1836bd&id=CCTV11&type=yy$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-11戏曲" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-11戏曲.png" group-title="🇨🇳央视",CCTV-11戏曲
@@ -856,43 +850,45 @@ http://218.13.14.6:60050/tsfile/live/1013_1.m3u8$小土豆•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
 http://58.57.40.22:9901/tsfile/live/1013_1.m3u8$小土豆•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://8.138.7.223/tv/migu666.php?id=cctv13$小土豆•IPV4『线路12』
+http://xn--zfru7t73y.onlinewebshop.net/api.php?n=HKTV&id=pcRBlt&tk=O75UrneSziGX$小土豆•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8$小土豆•IPV4『线路13』
+http://8.138.7.223/tv/migu666.php?id=cctv13$小土豆•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://175.8.28.207:9999/tsfile/live/0013_1.m3u8$小土豆•IPV4『线路14』
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8$小土豆•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-https://www.wmviv.com/iptv/bc2t.php?id=cctv13$小土豆•IPV4『线路15』
+http://175.8.28.207:9999/tsfile/live/0013_1.m3u8$小土豆•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://112.27.235.94:8000/hls/14/index.m3u8$小土豆•IPV4『线路16』
+https://www.wmviv.com/iptv/bc2t.php?id=cctv13$小土豆•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://39.135.135.59/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$小土豆•IPV4『线路17』
+http://112.27.235.94:8000/hls/14/index.m3u8$小土豆•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://106.53.99.30/tv/cctv13.php$小土豆•IPV4『线路18』
+http://39.135.135.59/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$小土豆•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://enydir.gicp.net:7088/udp/239.29.1.123:5000$小土豆•IPV4『线路19』
+http://106.53.99.30/tv/cctv13.php$小土豆•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://t.061899.xyz/tl/tl.php?id=cctv13$小土豆•IPV4『线路20』
+http://enydir.gicp.net:7088/udp/239.29.1.123:5000$小土豆•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://cards.imwork.net:15893/udp/239.3.1.124:8128$小土豆•IPV4『线路21』
+http://t.061899.xyz/tl/tl.php?id=cctv13$小土豆•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://23.237.228.134/live3/CCTV13.m3u8$小土豆•IPV4『线路22』
+http://cards.imwork.net:15893/udp/239.3.1.124:8128$小土豆•IPV4『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://111.170.157.210:1081/?id=608807423&auth=95d4c11f9a4bc430bf05d5da4ace7ccb85a727691dbbeb0ae33df6490cd1cff4953a1d118a48b8ee4cc27064417a09ba$小土豆•IPV4『线路23』
+http://23.237.228.134/live3/CCTV13.m3u8$小土豆•IPV4『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://A/ku9/js/咪咕超简版.js?id=608807423$小土豆•IPV4『线路24』
+http://111.170.157.210:1081/?id=608807423&auth=95d4c11f9a4bc430bf05d5da4ace7ccb85a727691dbbeb0ae33df6490cd1cff4953a1d118a48b8ee4cc27064417a09ba$小土豆•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://hc8q.x3322.net:3000/608807423$小土豆•IPV4『线路25』
+http://A/ku9/js/咪咕超简版.js?id=608807423$小土豆•IPV4『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://221.12.123.211:1234/608807423$小土豆•IPV4『线路26』
+http://hc8q.x3322.net:3000/608807423$小土豆•IPV4『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://www.douzhicloud.site:35455/mgtv/608807423.m3u8$小土豆•IPV4『线路27』
+http://221.12.123.211:1234/608807423$小土豆•IPV4『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-rtp://239.3.1.124:8128$小土豆•IPV4『线路28』
+http://www.douzhicloud.site:35455/mgtv/608807423.m3u8$小土豆•IPV4『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-https://event.pull.hebtv.com/jishi/cp1.m3u8$小土豆•IPV4『线路29』
+rtp://239.3.1.124:8128$小土豆•IPV4『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$小土豆•IPV4『线路30』
+https://event.pull.hebtv.com/jishi/cp1.m3u8$小土豆•IPV4『线路30』
+#EXTINF:-1 tvg-id="31" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$小土豆•IPV4『线路31』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-14少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-14少儿.png" group-title="🇨🇳央视",CCTV-14少儿
 https://migu.188766.xyz/?migutoken=92128f7d07b3905103a8f7661c48c546&id=CCTV14&type=yy$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-14少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-14少儿.png" group-title="🇨🇳央视",CCTV-14少儿
@@ -1208,37 +1204,35 @@ http://101.66.195.205:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-id="10" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
 http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$小土豆•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://xn--zfru7t73y.onlinewebshop.net/api.php?n=HKTV&id=m4SJhC&tk=O75UrneSziGX$小土豆•IPV4『线路11』
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8$小土豆•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://iptv.huuc.edu.cn/hls/btv1hd.m3u8$小土豆•IPV4『线路12』
+http://112.27.235.94:8000/hls/27/index.m3u8$小土豆•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://112.27.235.94:8000/hls/27/index.m3u8$小土豆•IPV4『线路13』
+http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$小土豆•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$小土豆•IPV4『线路14』
+https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8$小土豆•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8$小土豆•IPV4『线路15』
+http://t.061899.xyz/tl/tl.php?id=bjws$小土豆•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://t.061899.xyz/tl/tl.php?id=bjws$小土豆•IPV4『线路16』
+http://cards.imwork.net:15893/udp/239.3.1.241:8000$小土豆•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://cards.imwork.net:15893/udp/239.3.1.241:8000$小土豆•IPV4『线路17』
+http://cards.imwork.net:15893/udp/239.3.1.22:8001$小土豆•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://cards.imwork.net:15893/udp/239.3.1.22:8001$小土豆•IPV4『线路18』
+http://cards.imwork.net:15893/udp/239.3.1.225:8000$小土豆•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://cards.imwork.net:15893/udp/239.3.1.225:8000$小土豆•IPV4『线路19』
+http://cards.imwork.net:15893/udp/239.3.1.118:8001$小土豆•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://cards.imwork.net:15893/udp/239.3.1.118:8001$小土豆•IPV4『线路20』
+http://jildx.chunfengyun.top:8800/rtp/239.37.0.009:5540$小土豆•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://jildx.chunfengyun.top:8800/rtp/239.37.0.009:5540$小土豆•IPV4『线路21』
+http://enydir.gicp.net:7088/udp/239.29.0.108:5000$小土豆•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://enydir.gicp.net:7088/udp/239.29.0.108:5000$小土豆•IPV4『线路22』
+http://23.237.228.134/live3/beijing.m3u8$小土豆•IPV4『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://23.237.228.134/live3/beijing.m3u8$小土豆•IPV4『线路23』
+http://hc8q.x3322.net:3000/630287636$小土豆•IPV4『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://hc8q.x3322.net:3000/630287636$小土豆•IPV4『线路24』
+http://221.12.123.211:1234/630287636$小土豆•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://221.12.123.211:1234/630287636$小土豆•IPV4『线路25』
-#EXTINF:-1 tvg-id="26" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-rtp://239.3.1.22:8001$小土豆•IPV4『线路26』
+rtp://239.3.1.22:8001$小土豆•IPV4『线路25』
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="📡卫视",江苏卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="📡卫视",江苏卫视
@@ -1318,29 +1312,27 @@ http://home.wwang.pw:35455/itv/1000000005000265025.m3u8?cdn=ystenlive$小土豆�
 #EXTINF:-1 tvg-id="8" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
 http://58.57.40.22:9901/tsfile/live/1033_1.m3u8$小土豆•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://xn--zfru7t73y.onlinewebshop.net/api.php?n=HKTV&id=ixjUGg&tk=O75UrneSziGX$小土豆•IPV4『线路9』
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8$小土豆•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://iptv.huuc.edu.cn/hls/ahhd.m3u8$小土豆•IPV4『线路10』
+http://112.27.235.94:8000/hls/26/index.m3u8$小土豆•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://112.27.235.94:8000/hls/26/index.m3u8$小土豆•IPV4『线路11』
+http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$小土豆•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$小土豆•IPV4『线路12』
+https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8$小土豆•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8$小土豆•IPV4『线路13』
+http://t.061899.xyz/tl/tl.php?id=ahws$小土豆•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://t.061899.xyz/tl/tl.php?id=ahws$小土豆•IPV4『线路14』
+http://cards.imwork.net:15893/udp/239.3.1.211:8064$小土豆•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://cards.imwork.net:15893/udp/239.3.1.211:8064$小土豆•IPV4『线路15』
+http://jildx.chunfengyun.top:8800/rtp/239.37.0.159:5540$小土豆•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://jildx.chunfengyun.top:8800/rtp/239.37.0.159:5540$小土豆•IPV4『线路16』
+http://enydir.gicp.net:7088/udp/239.29.0.81:5000$小土豆•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://enydir.gicp.net:7088/udp/239.29.0.81:5000$小土豆•IPV4『线路17』
+http://23.237.228.134/live8/anhui.m3u8$小土豆•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://23.237.228.134/live8/anhui.m3u8$小土豆•IPV4『线路18』
+rtp://239.3.1.211:8064$小土豆•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-rtp://239.3.1.211:8064$小土豆•IPV4『线路19』
-#EXTINF:-1 tvg-id="20" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="📡卫视",安徽卫视
-http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8$小土豆•IPV4『线路20』
+http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8$小土豆•IPV4『线路19』
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/重庆卫视.png" group-title="📡卫视",重庆卫视
 https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/重庆卫视.png" group-title="📡卫视",重庆卫视
@@ -2344,21 +2336,23 @@ http://home.wwang.pw:35455/itv/1000000002000029441.m3u8?cdn=ystenlive$小土豆�
 #EXTINF:-1 tvg-id="8" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
 http://58.57.40.22:9901/tsfile/live/1055_1.m3u8$小土豆•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
-http://8.138.7.223/tv/migu666.php?id=xjws$小土豆•IPV4『线路9』
+http://xn--zfru7t73y.onlinewebshop.net/api.php?n=HKTV&id=2XE3Zf&tk=O75UrneSziGX$小土豆•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
-http://www.wmviv.com/iptv/bc2t.php?id=xjws$小土豆•IPV4『线路10』
+http://8.138.7.223/tv/migu666.php?id=xjws$小土豆•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
-http://39.135.133.147/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$小土豆•IPV4『线路11』
+http://www.wmviv.com/iptv/bc2t.php?id=xjws$小土豆•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
-http://t.061899.xyz/tl/tl.php?id=xjws$小土豆•IPV4『线路12』
+http://39.135.133.147/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$小土豆•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
-http://cards.imwork.net:15893/udp/239.3.1.167:8192$小土豆•IPV4『线路13』
+http://t.061899.xyz/tl/tl.php?id=xjws$小土豆•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
-rtp://239.3.1.167:8192$小土豆•IPV4『线路14』
+http://cards.imwork.net:15893/udp/239.3.1.167:8192$小土豆•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
-http://cc2022.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2025$小土豆•IPV4『线路15』
+rtp://239.3.1.167:8192$小土豆•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
-http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$小土豆•IPV4『线路16』
+http://cc2022.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2025$小土豆•IPV4『线路16』
+#EXTINF:-1 tvg-id="17" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="📡卫视",新疆卫视
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$小土豆•IPV4『线路17』
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/云南卫视.png" group-title="📡卫视",云南卫视
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXlud3M=$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="云南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/云南卫视.png" group-title="📡卫视",云南卫视
@@ -2474,11 +2468,11 @@ http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$�
 #EXTINF:-1 tvg-id="2" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
 http://home.wwang.pw:35455/itv/1000000005000266001.m3u8?cdn=ystenlive$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$小土豆•IPV4『线路3』
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing$小土豆•IPV4『线路4』
+https://liveout.xntv.tv/a65jur/96iln2.m3u8$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8$小土豆•IPV4『线路5』
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$小土豆•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
 http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$小土豆•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
