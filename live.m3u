@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-17 16:58" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-17 16:58
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-02-17 18:56" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-02-17 18:56
 http://1.1.1.1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$小土豆•IPV4『线路1』
@@ -2290,11 +2290,11 @@ http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$�
 #EXTINF:-1 tvg-id="2" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
 http://home.wwang.pw:35455/itv/1000000005000266001.m3u8?cdn=ystenlive$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing$小土豆•IPV4『线路3』
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$小土豆•IPV4『线路4』
+https://liveout.xntv.tv/a65jur/96iln2.m3u8$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8$小土豆•IPV4『线路5』
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing$小土豆•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
 http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$小土豆•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="安多卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安多卫视.png" group-title="📡卫视",安多卫视
