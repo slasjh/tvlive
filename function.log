@@ -1,12 +1,15 @@
-2026-04-02 23:07:38,541 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 获取成功，判断为标准的TXT格式
-2026-04-02 23:07:38,543 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 黑龙江地区, 陕西地区, 云南地区, 福建地区, 河南地区, 甘肃地区, 超清频道
-2026-04-02 23:07:38,656 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 获取成功，判断为标准的TXT格式
-2026-04-02 23:07:38,656 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 爬取成功✅，包含频道分类: 🤠小土豆直播, 🇨🇳央视, 📡卫视, 🇭🇰港澳台
-2026-04-02 23:07:38,778 - ERROR - url: http://156.238.251.122:888/live/fh.txt 爬取失败❌, Error: 403 Client Error: Forbidden for url: http://156.238.251.122:888/live/fh.txt
-2026-04-02 23:07:39,445 - ERROR - url: http://545211.xyz:888/live/dalao/all.m3u 爬取失败❌, Error: 403 Client Error: Forbidden for url: http://545211.xyz:888/live/dalao/all.m3u
-2026-04-02 23:07:39,851 - ERROR - url: http://545211.xyz:888/live/dalao/qun.m3u 爬取失败❌, Error: 403 Client Error: Forbidden for url: http://545211.xyz:888/live/dalao/qun.m3u
-2026-04-02 23:07:40,499 - ERROR - url: http://545211.xyz:888/live/dalao/like.m3u 爬取失败❌, Error: 403 Client Error: Forbidden for url: http://545211.xyz:888/live/dalao/like.m3u
-2026-04-02 23:07:40,638 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 获取成功，判断为标准的TXT格式
-2026-04-02 23:07:40,639 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 香港, 🔥历年春晚
-2026-04-02 23:07:40,791 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
-2026-04-02 23:07:40,792 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-04-02 23:48:37,769 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
+2026-04-02 23:48:37,770 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-04-02 23:48:37,899 - INFO - url: http://156.238.251.122:7000/txt 获取成功，判断为标准的TXT格式
+2026-04-02 23:48:37,900 - INFO - url: http://156.238.251.122:7000/txt 爬取成功✅，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, 🌊港·澳·台, 🎬电影频道, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
+2026-04-02 23:48:38,539 - INFO - url: http://64.81.114.28:7000/txt 获取成功，判断为标准的TXT格式
+2026-04-02 23:48:38,540 - INFO - url: http://64.81.114.28:7000/txt 爬取成功✅，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, 🌊港·澳·台, 🎬电影频道, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
+2026-04-02 23:48:41,216 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 获取成功，判断为标准的TXT格式
+2026-04-02 23:48:41,218 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道
+2026-04-02 23:48:41,339 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
+2026-04-02 23:48:41,341 - INFO - 频道 CCTV-16奥林匹克 的URL http://home.yulei.online:9999/rtp/226.0.2.169:9264 在 3 个订阅源中出现: {'whitelist', '央视频道', '📺央视频道'}
+2026-04-02 23:48:41,342 - INFO - 频道 浙江卫视 的URL http://69.30.246.194/live/zjws.m3u8 在 3 个订阅源中出现: {'卫视频道', 'whitelist', '📡卫视频道'}
+2026-04-02 23:48:41,342 - INFO - 频道 浙江卫视 的URL https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8? 在 3 个订阅源中出现: {'卫视频道', 'whitelist', '📡卫视频道'}
+2026-04-02 23:48:41,342 - INFO - 频道 北京卫视 的URL http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8 在 3 个订阅源中出现: {'卫视频道', 'whitelist', '📡卫视频道'}
+2026-04-02 23:48:41,343 - INFO - 频道 四川卫视 的URL http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8 在 3 个订阅源中出现: {'卫视频道', 'whitelist', '📡卫视频道'}
+2026-04-02 23:48:41,349 - INFO - 匹配完成✅，共匹配到 4 个频道，5 个URL（仅保留在至少3个订阅源中都出现的URL）
