@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-04-26 19:45" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-04-26 19:45
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-04-26 21:24" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-04-26 21:24
 http://1.1.1.1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260426180515&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.205&SecurityKey=20260426180515&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=bac1c74d2ba8a5a89dbb60d0017417cf&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1777197910307&prlId=4f89b0f1d885527a227fd4a636419cfe1777197910337&jid=4f89b0f1d885527a227fd4a636419cfe1777197909684V&is_advertise=0&sjid=subsession_1777197942334&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=47dfde9fbb7b1f7a4b895ae81ac6145e$小土豆•IPV4『线路1』
@@ -1783,8 +1783,6 @@ https://mgev.188766.xyz/?migutoken=71657eda6c69117b93846d8ad34c2146&id=fhzw&pp=1
 https://mgev.188766.xyz/?migutoken=9413f7c93e4b8c78cc843146bdf9cfcd&id=hk_fhzw&type=dy$小土豆•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wk8HbP&tk=Bq6UkdYHjZ2m$小土豆•IPV4『线路16』
-#EXTINF:-1 tvg-id="17" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GhIBM7&tk=EtnRlarHlaC1$小土豆•IPV4『线路17』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
 http://156.238.251.122/fh.php?id=fhzx$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
