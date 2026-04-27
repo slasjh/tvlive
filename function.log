@@ -1,13 +1,15 @@
-2026-04-27 13:31:34,294 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 获取成功，判断为标准的TXT格式
-2026-04-27 13:31:34,297 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 江苏地区, 黑龙江地区, 江西地区, 陕西地区, 云南地区, 福建地区, 河南地区, 甘肃地区, 超清频道
-2026-04-27 13:31:34,407 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 获取成功，判断为标准的TXT格式
-2026-04-27 13:31:34,407 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 爬取成功✅，包含频道分类: 🤠小土豆直播, 🇨🇳央视, 📡卫视, 🇭🇰港澳台
-2026-04-27 13:31:34,516 - INFO - url: http://156.238.251.122:888/live/fh.txt 获取成功，判断为标准的TXT格式
-2026-04-27 13:31:34,516 - INFO - url: http://156.238.251.122:888/live/fh.txt 爬取成功✅，包含频道分类: 香港
-2026-04-27 13:33:50,707 - ERROR - url: http://545211.xyz:888/live/dalao/all.m3u 爬取失败❌, Error: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /live/dalao/all.m3u (Caused by ConnectTimeoutError(<HTTPConnection(host='545211.xyz', port=888) at 0x7f9c6a885cc0>, 'Connection to 545211.xyz timed out. (connect timeout=None)'))
-2026-04-27 13:36:05,875 - ERROR - url: http://545211.xyz:888/live/dalao/qun.m3u 爬取失败❌, Error: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /live/dalao/qun.m3u (Caused by ConnectTimeoutError(<HTTPConnection(host='545211.xyz', port=888) at 0x7f9c6a885cc0>, 'Connection to 545211.xyz timed out. (connect timeout=None)'))
-2026-04-27 13:38:21,043 - ERROR - url: http://545211.xyz:888/live/dalao/like.m3u 爬取失败❌, Error: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /live/dalao/like.m3u (Caused by ConnectTimeoutError(<HTTPConnection(host='545211.xyz', port=888) at 0x7f9c6a887d00>, 'Connection to 545211.xyz timed out. (connect timeout=None)'))
-2026-04-27 13:38:21,167 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 获取成功，判断为标准的TXT格式
-2026-04-27 13:38:21,168 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 香港, 🔥历年春晚
-2026-04-27 13:38:21,263 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
-2026-04-27 13:38:21,265 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-04-27 15:29:29,091 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
+2026-04-27 15:29:29,092 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-04-27 15:29:29,177 - INFO - url: http://156.238.251.122:7000/txt 获取成功，判断为标准的TXT格式
+2026-04-27 15:29:29,177 - INFO - url: http://156.238.251.122:7000/txt 爬取成功✅，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, 🌊港·澳·台, 🎬电影频道, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
+2026-04-27 15:29:29,735 - INFO - url: http://64.81.114.28:7000/txt 获取成功，判断为标准的TXT格式
+2026-04-27 15:29:29,736 - INFO - url: http://64.81.114.28:7000/txt 爬取成功✅，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, 🌊港·澳·台, 🎬电影频道, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
+2026-04-27 15:29:30,018 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 获取成功，判断为标准的TXT格式
+2026-04-27 15:29:30,019 - INFO - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道
+2026-04-27 15:29:30,148 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
+2026-04-27 15:29:30,150 - INFO - 频道 CCTV-16奥林匹克 的URL http://home.yulei.online:9999/rtp/226.0.2.169:9264 在 3 个订阅源中出现: {'央视频道', 'whitelist', '📺央视频道'}
+2026-04-27 15:29:30,151 - INFO - 频道 浙江卫视 的URL https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8? 在 3 个订阅源中出现: {'卫视频道', 'whitelist', '📡卫视频道'}
+2026-04-27 15:29:30,151 - INFO - 频道 北京卫视 的URL http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8 在 3 个订阅源中出现: {'卫视频道', 'whitelist', '📡卫视频道'}
+2026-04-27 15:29:30,151 - INFO - 频道 江苏卫视 的URL http://69.30.246.194/live/jsws.m3u8 在 3 个订阅源中出现: {'卫视频道', 'whitelist', '📡卫视频道'}
+2026-04-27 15:29:30,151 - INFO - 频道 四川卫视 的URL http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8 在 3 个订阅源中出现: {'卫视频道', 'whitelist', '📡卫视频道'}
+2026-04-27 15:29:30,156 - INFO - 匹配完成✅，共匹配到 5 个频道，5 个URL（仅保留在至少3个订阅源中都出现的URL）
