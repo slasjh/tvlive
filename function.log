@@ -1,13 +1,13 @@
-2026-05-09 16:05:49,212 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 获取成功，判断为标准的TXT格式
-2026-05-09 16:05:49,214 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 江苏地区, 黑龙江地区, 江西地区, 陕西地区, 云南地区, 福建地区, 河南地区, 甘肃地区, 超清频道
-2026-05-09 16:05:49,314 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 获取成功，判断为标准的TXT格式
-2026-05-09 16:05:49,314 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 爬取成功✅，包含频道分类: 🤠小土豆直播, 🇨🇳央视, 📡卫视, 🇭🇰港澳台
-2026-05-09 16:05:49,450 - INFO - url: http://156.238.251.122:888/live/fh.txt 获取成功，判断为标准的TXT格式
-2026-05-09 16:05:49,450 - INFO - url: http://156.238.251.122:888/live/fh.txt 爬取成功✅，包含频道分类: 香港
-2026-05-09 16:08:04,137 - ERROR - url: http://545211.xyz:888/live/dalao/all.m3u 爬取失败❌, Error: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /live/dalao/all.m3u (Caused by ConnectTimeoutError(<HTTPConnection(host='545211.xyz', port=888) at 0x7fe9a6ff5c60>, 'Connection to 545211.xyz timed out. (connect timeout=None)'))
-2026-05-09 16:10:19,305 - ERROR - url: http://545211.xyz:888/live/dalao/qun.m3u 爬取失败❌, Error: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /live/dalao/qun.m3u (Caused by ConnectTimeoutError(<HTTPConnection(host='545211.xyz', port=888) at 0x7fe9a6ff6ef0>, 'Connection to 545211.xyz timed out. (connect timeout=None)'))
-2026-05-09 16:12:34,473 - ERROR - url: http://545211.xyz:888/live/dalao/like.m3u 爬取失败❌, Error: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /live/dalao/like.m3u (Caused by ConnectTimeoutError(<HTTPConnection(host='545211.xyz', port=888) at 0x7fe9a6ff7d00>, 'Connection to 545211.xyz timed out. (connect timeout=None)'))
-2026-05-09 16:12:34,589 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 获取成功，判断为标准的TXT格式
-2026-05-09 16:12:34,589 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 香港, 🔥历年春晚
-2026-05-09 16:12:34,694 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
-2026-05-09 16:12:34,695 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-05-09 17:25:09,284 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 获取成功，判断为标准的TXT格式
+2026-05-09 17:25:09,285 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 江苏地区, 黑龙江地区, 江西地区, 陕西地区, 云南地区, 福建地区, 河南地区, 甘肃地区, 超清频道
+2026-05-09 17:25:09,609 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 获取成功，判断为标准的TXT格式
+2026-05-09 17:25:09,609 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 爬取成功✅，包含频道分类: 🤠小土豆直播, 🇨🇳央视, 📡卫视, 🇭🇰港澳台
+2026-05-09 17:25:09,634 - INFO - url: http://156.238.251.122:888/live/fh.txt 获取成功，判断为标准的TXT格式
+2026-05-09 17:25:09,634 - INFO - url: http://156.238.251.122:888/live/fh.txt 爬取成功✅，包含频道分类: 香港
+2026-05-09 17:27:23,854 - ERROR - url: http://545211.xyz:888/live/dalao/all.m3u 爬取失败❌, Error: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /live/dalao/all.m3u (Caused by ConnectTimeoutError(<HTTPConnection(host='545211.xyz', port=888) at 0x7f1e23425c60>, 'Connection to 545211.xyz timed out. (connect timeout=None)'))
+2026-05-09 17:29:39,022 - ERROR - url: http://545211.xyz:888/live/dalao/qun.m3u 爬取失败❌, Error: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /live/dalao/qun.m3u (Caused by ConnectTimeoutError(<HTTPConnection(host='545211.xyz', port=888) at 0x7f1e23426ef0>, 'Connection to 545211.xyz timed out. (connect timeout=None)'))
+2026-05-09 17:31:54,190 - ERROR - url: http://545211.xyz:888/live/dalao/like.m3u 爬取失败❌, Error: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /live/dalao/like.m3u (Caused by ConnectTimeoutError(<HTTPConnection(host='545211.xyz', port=888) at 0x7f1e23427d00>, 'Connection to 545211.xyz timed out. (connect timeout=None)'))
+2026-05-09 17:31:54,411 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 获取成功，判断为标准的TXT格式
+2026-05-09 17:31:54,412 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 香港, 🔥历年春晚
+2026-05-09 17:31:54,610 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
+2026-05-09 17:31:54,611 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
