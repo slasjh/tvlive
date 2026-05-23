@@ -1,9 +1,7 @@
-2026-05-23 21:56:22,183 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 获取成功，判断为标准的TXT格式
-2026-05-23 21:56:22,185 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 江苏地区, 黑龙江地区, 江西地区, 陕西地区, 河北地区, 福建地区, 河南地区, 甘肃地区, 超清频道
-2026-05-23 21:56:22,279 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 获取成功，判断为标准的TXT格式
-2026-05-23 21:56:22,279 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 爬取成功✅，包含频道分类: 🤠小土豆直播, 🇨🇳央视, 📡卫视, 🇭🇰港澳台
-2026-05-23 21:56:23,190 - ERROR - url: http://545211.xyz:888/live/fh.txt 爬取失败❌, Error: 403 Client Error: Forbidden for url: http://545211.xyz:888/live/fh.txt
-2026-05-23 21:56:23,319 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 获取成功，判断为标准的TXT格式
-2026-05-23 21:56:23,319 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 香港, 🔥历年春晚
-2026-05-23 21:56:23,408 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
-2026-05-23 21:56:23,409 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-05-23 22:24:49,177 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
+2026-05-23 22:24:49,178 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-05-23 22:27:03,872 - ERROR - url: http://156.238.251.122:7000/txt 爬取失败❌, Error: HTTPConnectionPool(host='156.238.251.122', port=7000): Max retries exceeded with url: /txt (Caused by ConnectTimeoutError(<HTTPConnection(host='156.238.251.122', port=7000) at 0x7f96638194e0>, 'Connection to 156.238.251.122 timed out. (connect timeout=None)'))
+2026-05-23 22:29:19,040 - ERROR - url: http://64.81.114.28:7000/txt 爬取失败❌, Error: HTTPConnectionPool(host='64.81.114.28', port=7000): Max retries exceeded with url: /txt (Caused by ConnectTimeoutError(<HTTPConnection(host='64.81.114.28', port=7000) at 0x7f9663835630>, 'Connection to 64.81.114.28 timed out. (connect timeout=None)'))
+2026-05-23 22:29:19,097 - ERROR - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt
+2026-05-23 22:29:19,142 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
+2026-05-23 22:29:19,144 - INFO - 匹配完成✅，共匹配到 0 个频道，0 个URL（仅保留在至少3个订阅源中都出现的URL）
