@@ -275,9 +275,7 @@ if __name__ == "__main__":
         "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt",
             "https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt",
     "https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt",
-        "http://156.238.251.122:7000/txt", 
-   "http://64.81.114.28:7000/txt" 
-    #"https://156.238.251.122:888/live/dalao/iptv-Kimentanm.m3u",
+   "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt" 
     #"https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u", 
     #"https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u",
     #"https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u", 
