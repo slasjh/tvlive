@@ -1,9 +1,9 @@
-2026-06-08 20:36:38,458 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 获取成功，判断为标准的TXT格式
-2026-06-08 20:36:38,460 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 江苏地区, 黑龙江地区, 江西地区, 陕西地区, 河北地区, 福建地区, 河南地区, 甘肃地区, 超清频道
-2026-06-08 20:36:38,557 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 获取成功，判断为标准的TXT格式
-2026-06-08 20:36:38,557 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 爬取成功✅，包含频道分类: 🤠小土豆直播, 🇨🇳央视, 📡卫视, 🇭🇰港澳台
-2026-06-08 20:36:39,214 - ERROR - url: http://545211.xyz:888/live/fh.txt 爬取失败❌, Error: 403 Client Error: Forbidden for url: http://545211.xyz:888/live/fh.txt
-2026-06-08 20:36:39,426 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 获取成功，判断为标准的TXT格式
-2026-06-08 20:36:39,426 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 香港, 🔥历年春晚
-2026-06-08 20:36:39,715 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
-2026-06-08 20:36:39,720 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-06-08 20:40:42,432 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 获取成功，判断为标准的TXT格式
+2026-06-08 20:40:42,434 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 江苏地区, 黑龙江地区, 江西地区, 陕西地区, 河北地区, 福建地区, 河南地区, 甘肃地区, 超清频道
+2026-06-08 20:40:42,460 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 获取成功，判断为标准的TXT格式
+2026-06-08 20:40:42,460 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 爬取成功✅，包含频道分类: 🤠小土豆直播, 🇨🇳央视, 📡卫视, 🇭🇰港澳台
+2026-06-08 20:40:43,118 - ERROR - url: http://545211.xyz:888/live/fh.txt 爬取失败❌, Error: 403 Client Error: Forbidden for url: http://545211.xyz:888/live/fh.txt
+2026-06-08 20:40:43,145 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 获取成功，判断为标准的TXT格式
+2026-06-08 20:40:43,146 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 香港, 🔥历年春晚
+2026-06-08 20:40:43,180 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
+2026-06-08 20:40:43,185 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
