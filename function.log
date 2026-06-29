@@ -1,9 +1,8 @@
-2026-06-29 20:45:21,829 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 获取成功，判断为标准的TXT格式
-2026-06-29 20:45:21,830 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 江苏地区, 黑龙江地区, 江西地区, 陕西地区, 河北地区, 福建地区, 河南地区, 甘肃地区, 超清频道
-2026-06-29 20:45:22,037 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 获取成功，判断为标准的TXT格式
-2026-06-29 20:45:22,037 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/three.txt 爬取成功✅，包含频道分类: 🤠小土豆直播, 🇨🇳央视, 📡卫视, 🇭🇰港澳台
-2026-06-29 20:45:22,497 - ERROR - url: http://545211.xyz:888/live/fh.txt 爬取失败❌, Error: 403 Client Error: Forbidden for url: http://545211.xyz:888/live/fh.txt
-2026-06-29 20:45:22,521 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 获取成功，判断为标准的TXT格式
-2026-06-29 20:45:22,521 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/live_Lite.txt 爬取成功✅，包含频道分类: 香港, 🔥历年春晚
-2026-06-29 20:45:22,554 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
-2026-06-29 20:45:22,562 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-06-30 00:31:56,464 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 获取成功，判断为标准的TXT格式
+2026-06-30 00:31:56,473 - INFO - url: https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt 爬取成功✅，包含频道分类: 更新时间, whitelist
+2026-06-30 00:31:56,603 - ERROR - url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt
+2026-06-30 00:31:56,684 - ERROR - url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
+2026-06-30 00:31:56,765 - INFO - url: https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt 获取成功，判断为标准的TXT格式
+2026-06-30 00:31:56,771 - INFO - url: https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt 爬取成功✅，包含频道分类: 🇨🇳河南地方, 🇨🇳IPV4线路, 🇨🇳组播线路, 🇨🇳电影在线, 🇨🇳影音剧场
+2026-06-30 00:31:57,391 - ERROR - url: http://545211.xyz:888/live/live_Lite.txt 爬取失败❌, Error: 403 Client Error: Forbidden for url: http://545211.xyz:888/live/live_Lite.txt
+2026-06-30 00:31:57,411 - INFO - 匹配完成✅，共匹配到 0 个频道，0 个URL（仅保留在至少3个订阅源中都出现的URL）
