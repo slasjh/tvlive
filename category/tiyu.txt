@@ -1,15 +1,18 @@
 卫视分类,#genre#
+CCTV-5体育,http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV-风云足球,http://192.151.150.154/live/fyzq.m3u8
+CCTV-5体育,http://173.208.212.130:8181/1080p/cctv5.m3u8
 CCTV-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
-CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CCTV风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
-CCTV5+体育赛事,http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260703080203&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20260703080203&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3cffc8205823e6c9e000e448bb4972b0&sv=10004&ct=android
-CCTV-风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
-CCTV-5体育,http://173.208.212.130:8181/720p/cctv5.m3u8
+体育休闲频道,http://hlszymgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20260705060205&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20260705060205&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bbded866a940dd459c4d75e20f7ad5f5&sv=10004&ct=android
 CCTV风云足球-,http://60.10.139.113:8801/hls/69/index.m3u8
+CCTV-风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 CCTV-5体育,http://207.56.13.146:81/cdnlive/cctv5.m3u8
+贵州村超 车江一村足球队VS大利村 全场回放 18:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/751/5106626751/media/5106626751_5338863995_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701805811&pid=2028597139&timestamp=20260705060218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965962900&ParentNodeID=-99&assertID=5701805811&client_ip=171.8.79.254&SecurityKey=20260705060218&promotionId=&mvid=5106626751&mcid=1003&mpid=120000581998&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cd937dd82f4360ccfdca6b52a91cb08d&sv=10004&ct=android
+中甲 苏州东吴VS广东广州豹足球俱乐部 全场回放（官方解说） 18:50,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/806/5106626806/media/5106626806_5338870109_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701805875&pid=2028597139&timestamp=20260705060219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965966615&ParentNodeID=-99&assertID=5701805875&client_ip=171.8.79.254&SecurityKey=20260705060219&promotionId=&mvid=5106626806&mcid=1003&mpid=120000570648&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=38e930f681a747023add3db335e5d4a4&sv=10004&ct=android
+中甲 宁波职业足球俱乐部VS石家庄功夫 全场回放（官方解说） 18:50,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/786/5106626786/media/5106626786_5338871224_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701805896&pid=2028597139&timestamp=20260705060219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965967323&ParentNodeID=-99&assertID=5701805896&client_ip=171.8.79.254&SecurityKey=20260705060219&promotionId=&mvid=5106626786&mcid=1003&mpid=120000570650&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f37d559403148c5abb0ad73e807d3634&sv=10004&ct=android
 CCTV风云足球,http://107.150.60.122/live/fyzq.m3u8
+CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CCTV-5体育,http://111.8.224.6:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+体育,http://111.8.224.6:9999/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5体育,http://173.208.212.130:8181/1080p/cctv5.m3u8
