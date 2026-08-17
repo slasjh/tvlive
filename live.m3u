@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-08-17 22:36" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-08-17 22:36
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期2026-08-18 00:36" tvg-logo="" group-title="🤠小土豆直播",更新日期2026-08-18 00:36
 http://1.1.1.1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://69.30.245.50/live/cctv1.m3u8$小土豆•IPV4『线路1』
@@ -2078,33 +2078,39 @@ http://gmxw.7766.org:808/hls/15/index.m3u8$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="延边卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/延边卫视.png" group-title="📡卫视",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8$小土豆•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://218.206.193.218:8888/hls/66/index.m3u8$小土豆•IPV4『线路1』
+http://545811.xyz/fh.php?id=fhzw$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://218.206.193.218:8888/hls/67/index.m3u8$小土豆•IPV4『线路2』
+http://218.206.193.218:8888/hls/66/index.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$小土豆•IPV4『线路3』
+http://218.206.193.218:8888/hls/67/index.m3u8$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$小土豆•IPV4『线路4』
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0$小土豆•IPV4『线路5』
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$小土豆•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv$小土豆•IPV4『线路6』
+http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0$小土豆•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$小土豆•IPV4『线路7』
+http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv$小土豆•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=15$小土豆•IPV4『线路8』
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$小土豆•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
-http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$小土豆•IPV4『线路9』
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=15$小土豆•IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="凤凰中文" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰中文.png" group-title="🇭🇰港澳台",凤凰中文
+http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$小土豆•IPV4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
-http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$小土豆•IPV4『线路1』
+http://545811.xyz/fh.php?id=fhzx$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
-http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$小土豆•IPV4『线路2』
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
-http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv$小土豆•IPV4『线路3』
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$小土豆•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
+http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv$小土豆•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰香港.png" group-title="🇭🇰港澳台",凤凰香港
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB$小土豆•IPV4『线路1』
+http://545811.xyz/fh.php?id=fhhk$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰香港" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰香港.png" group-title="🇭🇰港澳台",凤凰香港
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk$小土豆•IPV4『线路2』
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB$小土豆•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="凤凰香港" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/凤凰香港.png" group-title="🇭🇰港澳台",凤凰香港
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="香港卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/香港卫视.png" group-title="🇭🇰港澳台",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="香港卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/香港卫视.png" group-title="🇭🇰港澳台",香港卫视
@@ -2118,11 +2124,13 @@ http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$�
 #EXTINF:-1 tvg-id="1" tvg-name="环球电视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/环球电视.png" group-title="🇭🇰港澳台",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚1986" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1986.png" group-title="🥘春晚",春晚1986
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚1986" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1986.png" group-title="🥘春晚",春晚1986
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚1987" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1987.png" group-title="🥘春晚",春晚1987
-https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8$小土豆•IPV4『线路1』
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="春晚1987" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1987.png" group-title="🥘春晚",春晚1987
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4$小土豆•IPV4『线路2』
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚1988" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1988.png" group-title="🥘春晚",春晚1988
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="春晚1988" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1988.png" group-title="🥘春晚",春晚1988
@@ -2131,63 +2139,113 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8$小土�
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="春晚1989" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1989.png" group-title="🥘春晚",春晚1989
 http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4$小土豆•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="春晚1990" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1990.png" group-title="🥘春晚",春晚1990
+https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚1991" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1991.png" group-title="🥘春晚",春晚1991
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚1991" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1991.png" group-title="🥘春晚",春晚1991
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8$小土豆•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="春晚1992" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1992.png" group-title="🥘春晚",春晚1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚1993" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1993.png" group-title="🥘春晚",春晚1993
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚1993" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1993.png" group-title="🥘春晚",春晚1993
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚1994" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1994.png" group-title="🥘春晚",春晚1994
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚1994" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1994.png" group-title="🥘春晚",春晚1994
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚1995" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1995.png" group-title="🥘春晚",春晚1995
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚1995" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1995.png" group-title="🥘春晚",春晚1995
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚1996" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1996.png" group-title="🥘春晚",春晚1996
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4$小土豆•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="春晚1997" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1997.png" group-title="🥘春晚",春晚1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8$小土豆•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="春晚1998" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1998.png" group-title="🥘春晚",春晚1998
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚1999" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1999.png" group-title="🥘春晚",春晚1999
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚1999" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚1999.png" group-title="🥘春晚",春晚1999
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2000" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2000.png" group-title="🥘春晚",春晚2000
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2000" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2000.png" group-title="🥘春晚",春晚2000
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2001" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2001.png" group-title="🥘春晚",春晚2001
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2001" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2001.png" group-title="🥘春晚",春晚2001
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2002" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2002.png" group-title="🥘春晚",春晚2002
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2002" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2002.png" group-title="🥘春晚",春晚2002
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2003" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2003.png" group-title="🥘春晚",春晚2003
 https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2004" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2004.png" group-title="🥘春晚",春晚2004
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2004" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2004.png" group-title="🥘春晚",春晚2004
+https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2005" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2005.png" group-title="🥘春晚",春晚2005
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2005" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2005.png" group-title="🥘春晚",春晚2005
+https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2006" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2006.png" group-title="🥘春晚",春晚2006
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2006" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2006.png" group-title="🥘春晚",春晚2006
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2007" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2007.png" group-title="🥘春晚",春晚2007
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2007" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2007.png" group-title="🥘春晚",春晚2007
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2008" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2008.png" group-title="🥘春晚",春晚2008
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2008" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2008.png" group-title="🥘春晚",春晚2008
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2009" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2009.png" group-title="🥘春晚",春晚2009
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2009" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2009.png" group-title="🥘春晚",春晚2009
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2010" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2010.png" group-title="🥘春晚",春晚2010
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2011" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2011.png" group-title="🥘春晚",春晚2011
 https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4$小土豆•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="春晚2012" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2012.png" group-title="🥘春晚",春晚2012
+https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2013" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2013.png" group-title="🥘春晚",春晚2013
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2014" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2014.png" group-title="🥘春晚",春晚2014
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4$小土豆•IPV4
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2014" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2014.png" group-title="🥘春晚",春晚2014
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2015" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2015.png" group-title="🥘春晚",春晚2015
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4$小土豆•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="春晚2016" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2016.png" group-title="🥘春晚",春晚2016
+https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2017" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2017.png" group-title="🥘春晚",春晚2017
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2018" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2018.png" group-title="🥘春晚",春晚2018
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4$小土豆•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="春晚2019" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2019.png" group-title="🥘春晚",春晚2019
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2020" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2020.png" group-title="🥘春晚",春晚2020
 https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="春晚2020" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2020.png" group-title="🥘春晚",春晚2020
-http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4$小土豆•IPV4『线路2』
+https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8$小土豆•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="春晚2020" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2020.png" group-title="🥘春晚",春晚2020
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4$小土豆•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2021" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2021.png" group-title="🥘春晚",春晚2021
-http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4$小土豆•IPV4『线路1』
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="春晚2021" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2021.png" group-title="🥘春晚",春晚2021
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4$小土豆•IPV4『线路2』
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4$小土豆•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2022" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2022.png" group-title="🥘春晚",春晚2022
-http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4$小土豆•IPV4『线路1』
+https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4$小土豆•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="春晚2022" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2022.png" group-title="🥘春晚",春晚2022
-https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4$小土豆•IPV4『线路2』
+http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4$小土豆•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="春晚2023" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2023.png" group-title="🥘春晚",春晚2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8$小土豆•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春晚2024" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2024.png" group-title="🥘春晚",春晚2024
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$小土豆•IPV4
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$小土豆•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="春晚2024" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/春晚2024.png" group-title="🥘春晚",春晚2024
+https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8$小土豆•IPV4『线路2』
